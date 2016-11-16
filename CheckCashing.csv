@@ -1,0 +1,857 @@
+id,name,address,city,latitude,longitude,amount,customers
+1,98 Willoughby Check Cashing,98 Willoughby St,Brooklyn,40.69191,-73.984772,507832.32,5094
+2,Farmingdale Check Cashing Co,9726 Seaview Ave,Brooklyn,40.634135,-73.888967,260320.09,130
+3,Action Check Cashing Corp,9716 Church Ave,Brooklyn,40.656338,-73.913971,83784.18,9674
+4,Pay-O-Matic,961 Pennsylvania Ave,Brooklyn,40.65499,-73.88777,2711.16,457
+5,Cash Business Marketing & At,948 Dumont Ave,Brooklyn,40.667847,-73.883615,346972.82,9192
+6,ABRS Check Cashing,946 4th Ave,Brooklyn,40.654713,-74.004494,365875.3,6216
+7,Cash Business Marketing,933 Livonia Ave,Brooklyn,40.666484,-73.882812,788909.99,2218
+8,Flatlands Check Cashing Corp,923 E 107th St,Brooklyn,40.64803,-73.892753,191851.16,5927
+9,ABRS Check Cashing,92 Court St,Brooklyn,40.691179,-73.991713,127307.63,3103
+10,M & B Check Cashing Corp,916 Utica Ave,Brooklyn,40.650646,-73.930327,573130.28,64
+11,Ridge Check Cashing Corp,906 Fulton St,Brooklyn,40.683001,-73.964789,630311.17,9804
+12,Bayhurst Check Cashing,9014 4th Ave,Brooklyn,40.619566,-74.029962,330112.21,8901
+13,Cash Business Marketing,894 Myrtle Ave,Brooklyn,40.69561,-73.946795,319685.13,1349
+14,Jem Group ATM,892 Dekalb Ave,Brooklyn,40.692404,-73.940228,758049.14,1045
+15,Bush Capital,889 4th Ave,Brooklyn,40.655597,-74.002541,497795.84,1469
+16,Ridge Check Cashing Corp,884 5th Ave,Brooklyn,40.651611,-74.003929,571614.29,7955
+17,Fourth Avenue Check Cashing,88 4th Ave,Brooklyn,40.681814,-73.980459,267817.77,9082
+18,Laser Check Cashing,88 4th Ave,Brooklyn,40.681814,-73.980459,82771.45,9728
+19,Action Check Cashing,857 Bedford Ave,Brooklyn,40.694505,-73.956085,658100.8,794
+20,Check Changers LLC,8405 20th Ave,Brooklyn,40.605625,-73.997135,98783.55,3392
+21,Pay-O-Matic,840 Franklin Ave # A,Brooklyn,40.669361,-73.958755,704180.04,6666
+22,Ridge Check Cashing Corp,84 Flatbush Ave,Brooklyn,40.685996,-73.979013,544358.32,8731
+23,Pay-O-Matic,832 Washington Ave,Brooklyn,40.673138,-73.963211,869183.55,8408
+24,Bayhurst Check Cashing,8317 5th Ave,Brooklyn,40.623016,-74.025002,279196.62,8652
+25,Atlantic Amoco,811 Atlantic Ave,Brooklyn,40.68182,-73.967258,748635.48,8838
+26,B & H Check Cashing,805 Grand St # A,Brooklyn,40.712132,-73.94117,237572.56,8847
+27,Flatlands Check Cashing,8001 Flatlands Ave,Brooklyn,40.635589,-73.913367,708964.22,7089
+28,Check Cashing Place,785 Broadway # 1,Brooklyn,40.700233,-73.940506,950327.77,9586
+29,Quick Cash,782 Washington Ave,Brooklyn,40.674499,-73.963378,646571.9,3046
+30,David's Money Ctr Of New Yor,752 New Lots Ave,Brooklyn,40.666122,-73.882673,794321.49,2869
+31,Ridge Check Cashing Corp,7510 3rd Ave,Brooklyn,40.631193,-74.028176,364895.24,7423
+32,Pay-O-Matic,75 Classon Ave,Brooklyn,40.697925,-73.961727,628428.49,4079
+33,PLS Check Cashers,729 4th Ave,Brooklyn,40.661006,-73.997265,294217.74,6618
+34,INB Check Cashing Svc Inc,727 Utica Ave,Brooklyn,40.65551,-73.930729,332836.55,4111
+35,Csfc,713 Church Ave,Brooklyn,40.645817,-73.972763,547604.97,9083
+36,Pay-O-Matic,706 Ralph Ave,Brooklyn,40.665507,-73.922423,44240.07,9176
+37,Check Cashing Place,705 60th St,Brooklyn,40.636671,-74.01142,60954.03,5720
+38,Check Cashing Place,7011 18th Ave,Brooklyn,40.615868,-73.993118,704258.24,3727
+39,Cash Systems Efs Inc,690 5th Ave,Brooklyn,40.661682,-73.993408,432980.55,3129
+40,Pay-O-Matic,687 Stanley Ave,Brooklyn,40.659622,-73.883407,575478.96,1092
+41,Pls Check Cashing Corp,6817 4th Ave,Brooklyn,40.634705,-74.023148,229645.08,257
+42,Cash Zone LLC,68 Jay St,Brooklyn,40.702778,-73.987129,247758.16,1877
+43,Pay-O-Matic,653 Classon Ave # A,Brooklyn,40.677938,-73.958647,689291.54,4380
+44,Ridge Check Cashing Corp,6516 Bay Pkwy,Brooklyn,40.613586,-73.982071,470369.58,6528
+45,Quik Cash,643 Marcy Ave,Brooklyn,40.692505,-73.948575,797635.99,1466
+46,Pay-O-Matic,642 Nostrand Ave # C,Brooklyn,40.676269,-73.949954,237709.43,6652
+47,Kingston Check Cashing,6301 Fort Hamilton Pkwy,Brooklyn,40.631573,-74.007735,405795.7,5128
+48,NYC Financial Svc,6218 New Utrecht Ave,Brooklyn,40.62576,-73.997171,218410.09,5485
+49,Fast Cash Enterprise,616 4th Ave,Brooklyn,40.664907,-73.993774,278087.34,7809
+50,Checks Spring Finincial Svc,615 Livonia Ave,Brooklyn,40.664879,-73.894485,825619.04,801
+51,Pay-O-Matic,593 Myrtle Ave,Brooklyn,40.69428,-73.960445,46445.3,879
+52,Fast Cash Enterprise,587 Flatbush Ave,Brooklyn,40.659259,-73.960489,818278.32,4838
+53,Church Check Cashing,5824 Church Ave,Brooklyn,40.652227,-73.922047,889377.27,9658
+54,East Red Money Gram Inc,5814 8th Ave,Brooklyn,40.636475,-74.008911,527691.95,4363
+55,David's Check Cashing,581 Sutter Ave,Brooklyn,40.669208,-73.897517,70349.7,7986
+56,Argo Check Cashing Corp,581 Clinton St,Brooklyn,40.676657,-74.000839,226701.97,8076
+57,Pay-O-Matic,581 4th Ave,Brooklyn,40.66543,-73.99238,182216.69,4462
+58,Pay-O-Matic,5805 4th Ave # 1,Brooklyn,40.641674,-74.017097,482147.11,7767
+59,Cash Unlimited,580 Albany Ave,Brooklyn,40.660428,-73.940101,285693.99,2760
+60,ABRS Check Cashing,5702 Clarendon Rd,Brooklyn,40.644611,-73.922539,613056.7,1934
+61,Harlan Check Cashing,57 Front St # 1,Brooklyn,40.702704,-73.993143,250347.26,9875
+62,Green Acres Cash,56 74th St,Brooklyn,40.633584,-74.034542,230777.41,7863
+63,Island Check Cashing,553 Grand St,Brooklyn,40.711376,-73.949417,994261.52,6148
+64,Pay-O-Matic,553 Grand St,Brooklyn,40.711376,-73.949417,160289.57,7466
+65,Check Cashing Svc,553 Flatbush Ave,Brooklyn,40.66041,-73.960584,205761.54,3520
+66,Factor Check,5519 New Utrecht Ave,Brooklyn,40.630943,-73.995399,179664,8111
+67,Community Check Cashing Inc,5408 16th Ave,Brooklyn,40.628229,-73.988729,897572.74,1880
+69,Family Financial Ctr,532 Gates Ave,Brooklyn,40.686861,-73.944566,517920.98,3372
+70,Pay-O-Matic,531 Eastern Pkwy,Brooklyn,40.670095,-73.9505,623093.1,1088
+71,Cfsc,523 Flushing Ave,Brooklyn,40.699566,-73.954124,433664.95,3022
+72,Quick Cash Inc,5215 Avenue D,Brooklyn,40.642335,-73.926848,701675.78,5414
+73,Pay-O-Matic,5215 4th Ave,Brooklyn,40.644794,-74.013786,410494.02,1284
+74,Fast Cash Enterprise,513 5th Ave,Brooklyn,40.666915,-73.988114,8272.48,9133
+75,Cash Business Marketing & At,512 Van Siclen Ave,Brooklyn,40.667084,-73.888939,928763.3,4296
+76,Cashzone Check Cashing,5101 13th Ave,Brooklyn,40.63385,-73.99326,260867.24,512
+77,Passion Into Practice,509 11th St,Brooklyn,40.665588,-73.981812,480636.75,6400
+78,Pay-O-Matic,508 Clarkson Ave,Brooklyn,40.65564,-73.942558,908251.03,7534
+79,Quick Cash Inc,504 Classon Ave,Brooklyn,40.683105,-73.959106,811596.15,6593
+80,AVW Check Cashing Corp,4918 Avenue K,Brooklyn,40.625763,-73.928016,423131.62,1460
+81,Ali Dav Assoc Inc,4822 8th Ave,Brooklyn,40.641972,-74.003235,680576.33,2688
+82,Fast Cash Enterprise,4801 8th Ave,Brooklyn,40.642089,-74.00238,254705.17,2894
+83,Fifth Avenue Check Cashing,4706 5th Ave,Brooklyn,40.646698,-74.008757,234732.77,4093
+84,Bandco Check Cashing Svc Inc,4615 Avenue D,Brooklyn,40.642173,-73.932643,623311.43,625
+85,David's Check Cashing,460 Rockaway Ave,Brooklyn,40.668674,-73.910788,973042.06,8764
+86,Merchant Cash Now LTD,4518 3rd Ave,Brooklyn,40.650185,-74.012321,112188.49,4724
+87,Island Check Cashing 112,451 Broadway,Brooklyn,40.706718,-73.952148,931697.46,8557
+88,Pay-O-Matic,451 Broadway,Brooklyn,40.706718,-73.952148,590243.65,1782
+89,Pay-O-Matic,451 Broadway,Brooklyn,40.706718,-73.952148,746404.05,7856
+90,Sunset Check Cashing Inc,4424 3rd Ave,Brooklyn,40.650822,-74.011986,348660.96,9080
+91,CFSC,4418 Fort Hamilton Pkwy,Brooklyn,40.64061,-73.994858,495188.19,2131
+92,Alidav Associates,4401 New Utrecht Ave,Brooklyn,40.640526,-73.994256,779490.98,4218
+93,Vale Checking Of NY Inc,44 Hoyt St,Brooklyn,40.68935,-73.986175,243904.75,3250
+94,Cash #4 Tronics,439 Crescent St # 5,Brooklyn,40.678186,-73.870631,424596.84,5537
+95,Kingston Check Cashing,433 Kingston Ave,Brooklyn,40.664215,-73.942413,815136.16,7597
+96,Sutter Avenue Check Cashing,424 Sutter Ave # A,Brooklyn,40.667907,-73.903198,29054.78,2348
+97,Challenger Check Cashing,423 Utica Ave,Brooklyn,40.663983,-73.931516,853400.66,5424
+98,Cfsc,4229 18th Ave,Brooklyn,40.631238,-73.976007,819240.33,9718
+99,Challenger Check Cashing,407 Utica Ave,Brooklyn,40.664558,-73.931168,519506.48,5169
+100,397 Bridge St Check Cashing,397 Bridge St # 2,Brooklyn,40.691327,-73.985056,700270.06,4824
+101,Action Check Cashing Inc,383 Bushwick Ave,Brooklyn,40.703831,-73.937889,834453.04,3165
+102,United Check Cashing,382 Mother Gaston Blvd,Brooklyn,40.66972,-73.907227,792006.04,3616
+103,Metropolitan Check Cashing,381 Metropolitan Ave,Brooklyn,40.714287,-73.955353,315159.71,2309
+104,Cash It Corp,380 Ralph Ave,Brooklyn,40.675858,-73.922211,384836.13,5824
+105,Fast Cash Enterprise,372 Livingston St,Brooklyn,40.687413,-73.980136,23327.4,1658
+106,Quick Cash,372 Central Ave,Brooklyn,40.694098,-73.918249,712762.66,4904
+107,JWJ Check Cashing Corp,369 Mother Gaston Blvd,Brooklyn,40.670082,-73.906441,127681.93,8009
+108,David's Check Cashing Inc,365 Central Ave,Brooklyn,40.694198,-73.918228,492232.75,1435
+109,Pay-O-Matic,364 Graham Ave # A,Brooklyn,40.715211,-73.944438,724016.56,3188
+110,Davila Associates Inc,361 Court St,Brooklyn,40.681892,-73.996065,157093.15,8032
+111,Pay-O-Matic,359 Nostrand Ave,Brooklyn,40.68586,-73.950378,304624.42,7383
+112,Cfsc,350 Kings Hwy,Brooklyn,40.604589,-73.977358,34706.47,7702
+113,CHECKSPRING Financial Svc,348 Liberty Ave,Brooklyn,40.67427,-73.897109,506069.67,8708
+114,Pay-O-Matic,346 7th Ave,Brooklyn,40.666561,-73.982193,53564.96,1087
+115,Alivad Associates Inc,3419 14th Ave,Brooklyn,40.641628,-73.98143,7415.69,8001
+116,Action Check Cashing Corp,337 Knickerbocker Ave # 7,Brooklyn,40.701157,-73.922389,995085.76,620
+117,Khartoom Gram Inc,327 Atlantic Ave,Brooklyn,40.688266,-73.987597,284595.89,2659
+118,Fast Cash Enterprise,3038 Neptune Ave,Brooklyn,40.577421,-73.997894,26806.29,2871
+119,Vam Check Cashing Corp,2930 Atlantic Ave,Brooklyn,40.677235,-73.886185,108473.5,8343
+120,David's Check Cashing,2912 Stillwell Ave,Brooklyn,40.576469,-73.981507,676500.49,9710
+121,Cash Unlimited,291 Tompkins Ave,Brooklyn,40.687941,-73.944766,752489.08,8983
+122,Pay-O-Matic,286 Brighton Beach Ave,Brooklyn,40.576694,-73.964394,508628.95,101
+123,Hilton Check Cashing,283 Van Brunt St,Brooklyn,40.678971,-74.010627,857968.27,3569
+124,David's Money Ctr-Bensonhurs,2801 86th St,Brooklyn,40.592934,-73.978838,97375.75,7499
+125,Check Cashing,28 N 3rd St,Brooklyn,40.718206,-73.964474,495910.52,4003
+126,Cebco Check Cashier Corp,278 Knickerbocker Ave # A,Brooklyn,40.701931,-73.924332,259709.31,4747
+127,Pine Check Cashing Corp,2751 Pitkin Ave,Brooklyn,40.675847,-73.870596,249514.93,9356
+128,Cash Point Of Ny,2728 Mermaid Ave,Brooklyn,40.575573,-73.993871,454530.15,3678
+129,Cash ATM Systems,2616 Ocean Pkwy,Brooklyn,40.586201,-73.966896,582829.35,3039
+130,Cash Marketing ATM,2596 Linden Blvd,Brooklyn,40.668405,-73.86865,366858.68,6775
+131,Pay-O-Matic,254 Livonia Ave,Brooklyn,40.66251,-73.908143,114859.41,798
+132,Pay-O-Matic,254 Kingston Ave,Brooklyn,40.670823,-73.942394,199201.88,2414
+133,Checks & More,252 9th St,Brooklyn,40.670242,-73.989098,381044.28,8656
+134,R & M Check Cashing Corp,25 Willoughby St,Brooklyn,40.6923,-73.987594,505219.82,5509
+135,Quick Cash Inc,25 Putnam Ave,Brooklyn,40.682827,-73.960893,342718.94,7658
+136,Cash To Go Atm LLC,25 Bond St,Brooklyn,40.688861,-73.983263,337834.63,6351
+137,Pay-O-Matic,2488 Linden Blvd,Brooklyn,40.666296,-73.871778,835420.51,1834
+138,Alivad Associates,2471 84th St,Brooklyn,40.599406,-73.986108,329437.82,3315
+139,Abrs Check Cashing,241 Rockaway Pkwy # C,Brooklyn,40.661385,-73.920054,633527.4,9001
+140,Fast Cash Enterprises Inc,24 Joralemon St,Brooklyn,40.693776,-73.998889,207178.9,8141
+141,I & B Check Cashing,2346 Flatbush Ave,Brooklyn,40.61272,-73.926369,276381.15,8913
+142,Pay-O-Matic,2323 Mermaid Ave,Brooklyn,40.576214,-73.990906,737560.93,5462
+143,S & E Check Cashing Corp,2304 86th St,Brooklyn,40.600467,-73.991502,101209.65,9669
+144,Checks & More,230 Flatbush Ave,Brooklyn,40.68045,-73.97522,516116.21,92
+145,Maxilink Enterprise Inc,229 Malcolm X Blvd,Brooklyn,40.68512,-73.929199,118058.96,1747
+146,All Island Cash Svc,228 Albany Ave,Brooklyn,40.672717,-73.939148,19746.75,6378
+147,Cash Unlimited,226 Utica Ave,Brooklyn,40.671036,-73.931221,77006.5,1111
+148,Roebling Check Cashing,224 Broadway,Brooklyn,40.709384,-73.960816,448068.48,5659
+149,Pay-O-Matic,2193 Bedford Ave,Brooklyn,40.650337,-73.955544,980794.48,1849
+150,Shettlewood Inc,2190 Pitkin Ave,Brooklyn,40.672287,-73.891548,323710.11,2009
+151,Community Financial Svc Ctr,214 Parkside Ave,Brooklyn,40.655277,-73.960726,46138.9,1700
+152,Express Payment Ctr,2129 Flatbush Ave,Brooklyn,40.618042,-73.931765,816546.3,2733
+153,Cash Empire,2120 Nostrand Ave,Brooklyn,40.633677,-73.947992,497793.75,3889
+154,Pay-O-Matic,2107 Bath Ave,Brooklyn,40.600002,-73.9991,307115.9,9877
+155,Checks & More,205 5th Ave,Brooklyn,40.676455,-73.980365,977695.41,4367
+156,Xpress Cash Funding,2004 Mcdonald Ave,Brooklyn,40.603535,-73.972633,688167.67,399
+157,P Omatic Check Cashing,1993 Atlantic Ave,Brooklyn,40.676767,-73.916454,374350.68,9793
+158,Pay-O-Matic,1908 Church Ave # 100,Brooklyn,40.649685,-73.961792,988476.16,5013
+159,Cash Unlimited,188 Parkside Ave,Brooklyn,40.654888,-73.961205,21437.5,6062
+160,Pay-O-Matic,1878 Fulton St,Brooklyn,40.678753,-73.924271,764717.57,7430
+161,Bandco Check Cashing Svc,1826 Nostrand Ave,Brooklyn,40.641312,-73.948881,750302.41,6418
+162,CLB,1818 Kings Hwy,Brooklyn,40.610146,-73.954921,447217.22,2198
+163,Money Tree Capital Group,1812 Bath Ave,Brooklyn,40.603451,-74.00589,326059.31,2170
+164,B Barry Check Cashing,1799 Broadway,Brooklyn,40.682137,-73.908577,12361,3775
+165,Checks & More,1775 Flatbush Ave,Brooklyn,40.626839,-73.940979,9668.72,7484
+166,Challenger Check Cashing,1772 Ralph Ave # B,Brooklyn,40.6333,-73.919189,342253.54,2673
+167,Pay-O-Matic,1756 Bushwick Ave,Brooklyn,40.678612,-73.898718,345437.81,6507
+168,Cash Business Mrktng,1737 Saint Marks Ave,Brooklyn,40.673235,-73.909358,611178.88,1640
+169,Fast Cash Enterprise Inc,172 Bushwick Ave,Brooklyn,40.70962,-73.940223,647006.97,5220
+170,York Street Check Cashers,171 Bainbridge St,Brooklyn,40.681275,-73.930351,36742.6,3860
+171,Checks & More,1708 Atlantic Ave # A,Brooklyn,40.677444,-73.933403,578858.82,5452
+172,Flatbush Check Cashing Inc,1671 Bedford Ave,Brooklyn,40.665723,-73.956787,382229.18,2696
+173,Fast Cash USA Inc,166 N 7th St,Brooklyn,40.717594,-73.957433,622048.08,4229
+174,S E Check Cashing,1650 Bay Ridge Pkwy,Brooklyn,40.615485,-73.999541,410855.93,411
+175,Pay-O-Matic,1638 Coney Island Ave,Brooklyn,40.617371,-73.964149,624968.84,1574
+176,Pay-O-Matic,160 Rockaway Ave,Brooklyn,40.677715,-73.910946,710394.64,4570
+177,Pay-O-Matic,1588 Fulton St,Brooklyn,40.679493,-73.937309,572302.11,6337
+178,Davila Associates Inc,158 Smith St,Brooklyn,40.686387,-73.991022,310361.19,8300
+179,Pay-O-Matic,158 Marcus Garvey Blvd,Brooklyn,40.693085,-73.940121,916189.23,4732
+180,Pay-O-Matic,1569 Pitkin Ave,Brooklyn,40.669047,-73.915366,30110.04,7446
+181,Fast Cash USA Inc,156 Havemeyer St,Brooklyn,40.711427,-73.957709,33176.43,6097
+182,Bedford Enterprises,1550 Bedford Ave,Brooklyn,40.669605,-73.955727,95379.09,4204
+183,David's Check Cashing,1534 Myrtle Ave,Brooklyn,40.699409,-73.912067,475344.48,8913
+184,POMCLB Check Cashing Inc,1532 Utica Ave,Brooklyn,40.63453,-73.928603,118780.37,3716
+185,Checks & More,1529 Flatbush Ave,Brooklyn,40.633734,-73.948243,450756.32,5339
+186,Pay-O-Matic,151 Vanderbilt Ave,Brooklyn,40.693404,-73.969833,623872.64,4370
+187,Check Cashing Place,1503 Newkirk Ave,Brooklyn,40.635841,-73.963203,375270.32,903
+188,Island Check Cashing,1501 Pitkin Ave # C,Brooklyn,40.66862,-73.918233,741645.27,9661
+189,Fast Cash USA Inc,149 Havemeyer St,Brooklyn,40.711616,-73.957461,181586.94,5879
+190,Cash Unlimited,1486 Flatbush Ave,Brooklyn,40.634506,-73.949905,112532.32,7398
+191,Fast Cash USA Inc,145 Franklin St,Brooklyn,40.731349,-73.957905,702787.15,8018
+192,Abrs Check Cashing,1446 Nostrand Ave,Brooklyn,40.651059,-73.949853,342052.63,4343
+193,Pay-O-Matic,1445 Saint Johns Pl,Brooklyn,40.670868,-73.930244,227597.37,1256
+194,PLS Check Cashers,1445 Myrtle Ave,Brooklyn,40.699051,-73.917953,790225.02,5513
+195,Pay-O-Matic,1441 Saint Johns Pl,Brooklyn,40.670868,-73.930244,462377.04,4726
+196,David's Check Cashing,1431 Broadway,Brooklyn,40.688244,-73.919766,359631.91,8467
+197,Fast Cash Enterprise Inc,1430 Rockaway Pkwy,Brooklyn,40.645148,-73.902403,155426.66,585
+198,Flatlands Checking,1427 Linden Blvd,Brooklyn,40.654936,-73.906977,989756.09,7291
+199,Flatland Checking,1411 Rockaway Pkwy,Brooklyn,40.645595,-73.902742,870432.61,8333
+200,Best Ever Checks,1350 46th St,Brooklyn,40.635754,-73.98926,239058.16,4246
+201,B & H Check Cashing Svc,135 Wyckoff Ave # B,Brooklyn,40.704166,-73.918503,732577.69,1316
+202,Cash Unlimited,1324 Broadway,Brooklyn,40.69016,-73.923331,88278.26,9864
+203,Dependable Check Cashing,1313 Avenue J,Brooklyn,40.625294,-73.962791,205143.35,8333
+204,Atm Business CTR Inc,130 Division Ave # A,Brooklyn,40.707493,-73.962845,686210.79,8844
+205,Pay-O-Matic,1294 Fulton St,Brooklyn,40.680325,-73.94913,951839.74,2154
+206,Atm Business Ctr,128 Bedford Ave,Brooklyn,40.71946,-73.956276,739228.18,681
+207,G & J Check Cashing Corp,1279 E 100th St,Brooklyn,40.638872,-73.891089,85627.41,9999
+208,Cash Unlimited Inc,1278 Nostrand Ave,Brooklyn,40.655911,-73.950378,693302.73,7642
+209,Reliable Check Cashing II,1277 39th St,Brooklyn,40.640741,-73.986386,933368.44,8613
+210,Reliable Check Cashing,1275 50th St,Brooklyn,40.63469,-73.992987,299485.78,1520
+211,Reliable Check Cashing II,1275 39th St,Brooklyn,40.641014,-73.986524,529526.56,4124
+212,Ridge Check Cashing Corp,1274 Nostrand Ave,Brooklyn,40.656029,-73.950409,840858.55,4532
+213,Abrs Check Cashing Corp,1271 Ralph Ave,Brooklyn,40.645066,-73.919919,900160.39,5889
+214,C L B Check Cashing Corp,1267 Flatbush Ave,Brooklyn,40.639378,-73.954448,621478.97,5074
+215,Pay-O-Matic,126 Graham Ave,Brooklyn,40.705678,-73.942609,983100.85,5359
+216,Quick Cash Of Graham Avenue,125 Graham Ave,Brooklyn,40.706096,-73.943299,50931.18,7187
+217,David's Check Cashing,1234 Broadway,Brooklyn,40.691645,-73.925931,719750.73,1824
+218,H & S Check Cashing Svc,117 57th St,Brooklyn,40.646347,-74.022484,729809.98,7961
+219,Flatbush Check Cashing Inc,1154 Flatbush Ave,Brooklyn,40.641998,-73.957504,490732.25,9748
+220,Community Finance,1152 Myrtle Ave,Brooklyn,40.697078,-73.93395,250839.81,681
+221,Quick Cash Of Broadway LLC,1150 Broadway,Brooklyn,40.693139,-73.928559,770955.38,926
+222,Pay Matic,1139 Liberty Ave,Brooklyn,40.678852,-73.867447,170768.04,1412
+223,Checks & More,1135 Fulton St,Brooklyn,40.681458,-73.956243,458335.65,2975
+224,Muh Check Cashing Corp,1120 Metropolitan Ave,Brooklyn,40.71425,-73.932166,976639.96,2409
+225,Cfsc Check Cashing,112 Tompkins Ave,Brooklyn,40.695585,-73.946415,768337.85,4125
+226,Express Payment Ctr,1110 Pennsylvania Ave,Brooklyn,40.653272,-73.886837,586666.2,8215
+227,Global Debit Cash Card Inc,111 Livingston St,Brooklyn,40.691494,-73.989799,998800.2,4699
+228,AMB Check Cashing Corp,111 Lee Ave # 2,Brooklyn,40.704613,-73.958298,906752.67,4555
+229,Fast Cash Enterprise,111 Church Ave,Brooklyn,40.643049,-73.97897,66773.82,7034
+230,Cash Kitchen Inc,11 Graham Ave,Brooklyn,40.701424,-73.942474,992606.78,8627
+231,M W H Equities Corp,1088 Flatbush Ave,Brooklyn,40.643937,-73.957949,805666.86,7676
+232,Pay-O-Matic,1083 Manhattan Ave # A,Brooklyn,40.73558,-73.95546,47453.12,4590
+233,Pay-O-Matic,1075 Broadway,Brooklyn,40.694764,-73.930797,221891.4,1955
+234,Pay-O-Matic,106b Nassau Ave,Brooklyn,40.724173,-73.94954,825520.72,6079
+235,Slope Check Cashing Svc,1035 76th St,Brooklyn,40.623299,-74.013542,941612.66,7698
+236,Family Fiancal,1033 Flushing Ave # 1,Brooklyn,40.704075,-73.931015,302878.84,2010
+237,PLS Financial Svc,1021 Nostrand Ave # A,Brooklyn,40.663472,-73.950875,899235.72,1526
+238,Fast Cash USA,1017 Bedford Ave,Brooklyn,40.689198,-73.954727,896388.48,8586
+239,Check Cashing Place,1014 Cortelyou Rd,Brooklyn,40.639244,-73.968277,563610.21,2295
+240,Fast Cash Enterprises,101 Lenox Rd,Brooklyn,40.65384,-73.955962,490607.6,2445
+241,Mt Vernon Money Ctr,101 Clark St,Brooklyn,40.697258,-73.992066,267949.94,4
+242,Fast Cash USA,1004 Flushing Ave,Brooklyn,40.703748,-73.931103,221371.69,7848
+243,Broadway Financial,100 Broadway # B,Brooklyn,40.710148,-73.965283,681068.11,1077
+244,Uneeda Check Cashing Inc,10 E Mount Eden Ave,Bronx,40.844245,-73.914614,571112.16,882
+245,Pay-O-Matic,1030 Morris Ave,Bronx,40.829374,-73.916302,864092.35,8327
+246,Check Cashing Place,1034 Ogden Ave,Bronx,40.833928,-73.928758,852412.94,3539
+247,Subway Check Cashing Svc,1045 Westchester Ave,Bronx,40.82448,-73.892378,82407.53,7206
+248,640 Pay Ctr,107 Dreiser Loop,Bronx,40.877881,-73.828129,820501.58,1311
+249,Cash Enterprises,1075 Longfellow Ave,Bronx,40.825439,-73.888092,116611.88,5101
+250,Pay-O-Matic,11 E Gun Hill Rd,Bronx,40.882563,-73.880904,25557.27,4908
+251,Wink Check Cashing Corp,1135 Morris Park Ave,Bronx,40.850177,-73.851766,411605.3,67
+252,Popular Cash Express Inc,1170 Castle Hill Ave,Bronx,40.831703,-73.850578,457072.28,3822
+253,Hunts Point Check Cashing Co,1175 Leggett Ave,Bronx,40.81171,-73.893768,684590.68,8505
+254,Uneeda Check Cashing Inc,120 E 167th St,Bronx,40.834577,-73.918328,638533.44,4953
+255,Pay-O-Matic,120 Featherbed Ln,Bronx,40.845879,-73.920067,467136.24,8408
+256,Pay-O-Matic,1202 Morrison Ave,Bronx,40.82974,-73.874602,341029.03,8567
+257,Pay-O-Matic,1204 Elder Ave,Bronx,40.828766,-73.879155,870275.41,5286
+258,Baychester Payment Ctr,1209 E 233rd St,Bronx,40.8889,-73.843143,730481.21,8291
+259,Pay-O-Matic,1245 Southern Blvd,Bronx,40.829784,-73.892227,536577.7,8016
+260,Rite Check Cashing Inc,1272 Castle Hill Ave,Bronx,40.833868,-73.851481,805980.5,4892
+261,Pay-O-Matic,1283 Westchester Ave,Bronx,40.827225,-73.887058,826232.1,8029
+262,Metro Check,1343 Ogden Ave # 4,Bronx,40.84119,-73.925141,717048.22,6858
+263,Rite Check Cashing Inc,1353 E Gun Hill Rd,Bronx,40.870574,-73.846329,143387.6,2813
+264,Pay-O-Matic,1360 Bruckner Blvd,Bronx,40.822292,-73.885376,856130.15,3854
+265,PTL Check Cashing,1377 Ogden Ave,Bronx,40.841974,-73.924538,446066.86,1138
+266,V & V Check Cashing Corp,1410 Zerega Ave,Bronx,40.837078,-73.84701,518746.87,9222
+267,Checkmatic Inc,1418 Ogden Ave,Bronx,40.843263,-73.923699,705664.74,5955
+268,Rite Check Cashing Inc,143 Bruckner Blvd,Bronx,40.80395,-73.920509,355036.58,1120
+269,Uniondale Check Cashing LTD,1435 Webster Ave # B,Bronx,40.83734,-73.906877,770564.08,6218
+270,Americash,1438 Williamsbridge Rd,Bronx,40.845904,-73.841365,528910.44,5227
+271,Cash To Go Atm LLC,144 Lawrence St,Bronx,40.837459,-73.92328,788288.93,5300
+272,Tri-Star Check Cashing Corp,145 W Kingsbridge Rd,Bronx,40.869587,-73.90359,421211.15,361
+273,AA Payment Ctr Inc,1488 Williamsbridge Rd,Bronx,40.844172,-73.845851,768104.06,8437
+274,Check Cashing,15 E 183rd St,Bronx,40.858584,-73.903171,930575.85,4673
+275,Quick Cash E Gun Hill LLC,15 E Gun Hill Rd,Bronx,40.882491,-73.88079,382008.67,7649
+276,Pay-O-Matic,1500 Bruckner Blvd,Bronx,40.823303,-73.878479,75819.82,7409
+277,CSFC,1526 Unionport Rd,Bronx,40.836989,-73.857278,307622.83,6992
+278,Baychester Payment Ctr,153 E 149th St,Bronx,40.818951,-73.927666,734981.21,7717
+279,RDC Payroll Svc,1570 Watson Ave,Bronx,40.826309,-73.8762,400912.9,642
+280,PLS Check Cashers,1580 Jerome Ave,Bronx,40.844331,-73.914695,704071.25,7246
+281,Pay-O-Matic,159 E 170th St,Bronx,40.839348,-73.914467,555362.72,6687
+282,Wink Check Cashing Corp,1615 Unionport Rd,Bronx,40.840926,-73.863381,769900.07,5078
+283,Pay-O-Matic,164 E 174th St,Bronx,40.844794,-73.909219,350287.68,9598
+284,Metropolitan Check Cashing,1661 Metropolitan Ave,Bronx,40.840604,-73.855334,360368.1,4556
+285,American Check Cashing,1690 Webster Ave,Bronx,40.842906,-73.903507,755217.6,4226
+286,Cash Is King The Ulti,1718 Purdy St # 6h,Bronx,40.841111,-73.854467,534649.07,5463
+287,Castle Financial Svc,1753 Crosby Ave,Bronx,40.846381,-73.831895,785456.94,4717
+288,Pay-O-Matic,1784 Westchester Ave,Bronx,40.831406,-73.866821,653326.16,9667
+289,Check Cashing Store,1792 Jerome Ave,Bronx,40.848573,-73.911664,903068.76,9870
+290,Check Cashing Place,1801 Mlk Jr Blvd # 4,Bronx,40.850575,-73.915579,943074.01,4776
+291,Uneeda Check Cashing Inc,1812 Archer St,Bronx,40.837532,-73.866443,921736.74,3074
+292,Franklin Check Cashing Corp,1815 Grand Concourse,Bronx,40.847489,-73.908529,508646.32,6622
+293,POM-Clb Check Cashing Inc,1865 Bruckner Blvd,Bronx,40.826412,-73.861801,535817.21,7725
+294,Two Bros Gas Corp,1865 Bruckner Blvd,Bronx,40.826412,-73.861801,6850.9,9861
+295,EASTCHESTER Check Cashing,189 W 231st St,Bronx,40.879032,-73.904137,655805.07,6205
+296,Kimball Check Cashing Corp,1893 Andrews Ave,Bronx,40.853698,-73.914123,865885.34,9000
+297,Pay-O-Matic,1908 Cross Bronx Expy # 2,Bronx,40.832512,-73.859886,997240.07,5019
+298,L M Check Cashiers Inc,1945 Dr Martin L King Jr,Bronx,40.854164,-73.912491,696488.53,836
+299,David's Check Cashing,1998 Bruckner Blvd # 4,Bronx,40.826025,-73.856024,244489.15,8997
+300,Check Cashing Place,2031 Jerome Ave,Bronx,40.853467,-73.907766,111376.87,90
+301,Eastchester Check Cashing,2046 Eastchester Rd # A,Bronx,40.85444,-73.843546,86700.06,7139
+302,Atm National LLC,210 E 188th St,Bronx,40.860912,-73.897141,727581.19,2737
+303,Ads Multiservices,212 E Burnside Ave,Bronx,40.851826,-73.903175,12244.31,5476
+304,Pay-O-Matic,2187 White Plains Rd,Bronx,40.856432,-73.867725,736752.3,4367
+305,King Of Cash,219 E Fordham Rd,Bronx,40.862388,-73.896293,536021.15,4515
+306,Pay-O-Matic,2193 Grand Concourse,Bronx,40.855715,-73.901287,775268.59,1907
+307,Wink Check Cashing Corp,2250 White Plains Rd,Bronx,40.858772,-73.867541,735657.24,7270
+308,Cash Transaction Inc,2260 Walton Ave,Bronx,40.857697,-73.902908,30541.41,1844
+309,Action Check Cashing Inc,232 E 194th St,Bronx,40.865251,-73.893314,787688.03,902
+310,B X Cash Redemption,2330 Bassford Ave,Bronx,40.855951,-73.89158,58664.43,1853
+311,Pay-O-Matic,2356 Grand Concourse # 1,Bronx,40.858723,-73.898674,46254.38,6968
+312,Cortlandt Check Cashing Corp,239 W 238th St,Bronx,40.885093,-73.90048,650429.03,8575
+313,CHECK Cashing Place,241 E 167th St,Bronx,40.833707,-73.915189,566876.76,802
+314,Rite Check Cashing Corp,2418 Williamsbridge Rd,Bronx,40.861416,-73.857547,261894.13,4791
+315,Action Check Cashing Corp,2430 Creston Ave,Bronx,40.860969,-73.899026,16590.36,7792
+316,Joe & Lisa Cash & Carry Inc,2438 Eastchester Rd,Bronx,40.862267,-73.842842,605428.31,3560
+317,Pay-O-Matic,2441 Jerome Ave # 1,Bronx,40.862442,-73.901741,377065.03,3087
+318,Pay-O-Matic,25 W 170th St,Bronx,40.840855,-73.918518,571784.28,9257
+319,Uneeda Check Cashing Inc,2521 Webster Ave,Bronx,40.861423,-73.891853,789549.13,5735
+320,Cash Transaction Inc,2539 Webster Ave,Bronx,40.862064,-73.891081,451400.51,792
+321,Rite Check Cashing Svc,2591 Westchester Ave,Bronx,40.841026,-73.841751,514076.76,1292
+322,Fast Cash Inc,266 Willis Ave,Bronx,40.809577,-73.922488,554144.82,5403
+323,Fast Cash,2660 3rd Ave,Bronx,40.812862,-73.92337,248422.09,9443
+324,Check Cashing Place,2686 3rd Ave # 1,Bronx,40.81319,-73.92244,411069.9,594
+325,Pay-O-Matic,269 E Tremont Ave,Bronx,40.848807,-73.903633,151185.32,1553
+326,Pay-O-Matic,271 E 149th St,Bronx,40.817481,-73.922728,724365.6,1094
+327,Check Cashing Place,274 E 198th St,Bronx,40.868779,-73.888742,736910.14,6185
+328,David's Money Ctr-Bronx,279 E 161st St,Bronx,40.825505,-73.918079,832648.89,8821
+329,Inner City Check Cashing,2800 Boston Rd,Bronx,40.866699,-73.860229,655064.51,5381
+330,ATM Cash Express,2801 White Plains Rd,Bronx,40.866928,-73.867416,6889.31,8059
+331,ATN Check Cashing,2829 Edson Ave,Bronx,40.868832,-73.833885,238763.67,8214
+332,Atm Cash Express,286 E 169th St,Bronx,40.835011,-73.912215,305573.64,8961
+333,David's Check Cashing,3015 3rd Ave,Bronx,40.81953,-73.914001,668105.76,5760
+334,Rite Check Cash,3035 Wallace Ave,Bronx,40.870728,-73.864586,950098.85,9574
+335,Cash Consulting,3071 Middletown Rd,Bronx,40.84481,-73.828186,650110.41,4829
+336,Uneeda Check Cashing Inc,3120 Bainbridge Ave # 7,Bronx,40.87442,-73.879089,41844.93,4122
+337,Pay-O-Matic,3212 3rd Ave,Bronx,40.823063,-73.909235,5310.12,8007
+338,Cash It Corp,3226 Bainbridge Ave,Bronx,40.876521,-73.879619,317533.19,2614
+339,Inbox Check Cashing Svc Inc,3257 Westchester Ave,Bronx,40.852585,-73.828041,656872.09,9297
+340,Severino Johanny,333 E Gun Hill Rd,Bronx,40.878868,-73.873308,997102.61,5161
+341,Money Express Check Cashing,334 E 188th St,Bronx,40.860388,-73.89435,735697.82,4977
+342,P R Check Cashing Inc,335 E 143rd St,Bronx,40.813036,-73.92239,504599.18,6860
+343,Pay-O-Matic,339 E Gun Hill Rd,Bronx,40.878846,-73.8731,193736.76,1692
+344,G & R Check Cashing,3424 Kossuth Ave,Bronx,40.880512,-73.881073,969965.75,6630
+345,Pay-O-Matic,3429 E Tremont Ave,Bronx,40.83257,-73.827786,432293.49,4969
+346,Eastchester Check Cashing,3445 Boston Rd,Bronx,40.876277,-73.84888,582624.82,3772
+347,Pay-O-Matic,3480 Baychester Ave,Bronx,40.880712,-73.838364,316625.6,2136
+348,Pay-O-Matic,350 Vele Ave,Bronx,40.840125,-73.883501,56481.2,9165
+349,Pay-O-Matic,359 Devoe Ave,Bronx,40.840125,-73.883501,951744.5,8673
+350,PLS Check Cashers,359 E 204th St,Bronx,40.871876,-73.877467,87187.39,2420
+351,Uneeda Check Cashing Inc,3591 3rd Ave # 169,Bronx,40.832626,-73.905418,719335.34,7132
+352,Check Cashing,36 W Kingsbridge Rd,Bronx,40.86773,-73.898963,392157.62,2218
+353,Atm National LLC,360 E 197th St,Bronx,40.865633,-73.888185,680101.1,2098
+354,College Cash Finders,3677 White Plains Rd # A,Bronx,40.88135,-73.864865,118212.89,2163
+355,Pay-O-Matic,3725 E Tremont Ave,Bronx,40.826496,-73.821533,952705.97,6295
+356,C & L Check Cashing Corp,3775 White Plains Rd,Bronx,40.883422,-73.862981,743114.95,5993
+357,Bisa Check Cashing Corp,3804 Boston Rd,Bronx,40.881154,-73.838175,61255.96,3200
+358,Cash Zone,3813 Dyre Ave,Bronx,40.888235,-73.831367,26694.16,5049
+359,Wink Check Cashing Corp,388 Bedford Park Blvd # 1,Bronx,40.867628,-73.883993,503256.16,2107
+360,Pay-O-Matic,396 E 167th St,Bronx,40.830804,-73.910828,760804.85,8010
+361,David's Check Cashing Corp,3963 Laconia Ave,Bronx,40.884224,-73.849358,305993.29,5373
+362,C & L Check Cashing Corp,3991 White Plains Rd,Bronx,40.888466,-73.860481,441236.71,7461
+363,Inner City Check Cashing,4063 Boston Rd # B,Bronx,40.885693,-73.829231,406511.56,7269
+364,All American Check Cashing,412 Soundview Ave,Bronx,40.813958,-73.85827,541151.88,2984
+365,Atm National LLC,42 E 167th St,Bronx,40.835579,-73.920967,448482.13,9360
+366,Pay-O-Matic,4215 3rd Ave,Bronx,40.84688,-73.896141,86519.29,8625
+367,Rite Check Cashing,426 E 138th St,Bronx,40.80843,-73.921989,726182.19,4895
+368,Pay-O-Matic,4551 3rd Ave,Bronx,40.854573,-73.890557,405136.3,3280
+369,Stors Money Gram Corp,456 E 149th St,Bronx,40.814869,-73.915283,237944.33,4504
+370,Cash Entertainment,4615 Furman Ave,Bronx,40.902225,-73.850555,480195.95,8869
+371,Fast Cash Inc,469 Brook Ave,Bronx,40.813073,-73.91612,771988.51,3735
+372,Action Check Cashing Inc,4729 White Plains Rd # A,Bronx,40.904366,-73.850098,779978.02,8403
+373,Cfsc,510 Claremont Pkwy,Bronx,40.838192,-73.901573,144899.36,5657
+374,Pay-O-Matic,513 E 180th St,Bronx,40.850869,-73.894272,562927.2,9133
+375,Paymatic,5207 Broadway,Bronx,40.874693,-73.909819,847231.33,9830
+376,CBL Check Cashing,5237 Broadway,Bronx,40.875434,-73.908836,267672.8,9184
+377,Check Cashing,535 Southern Blvd,Bronx,40.812128,-73.904195,312504.19,7290
+378,Check Cashing Place,544 E Fordham Rd,Bronx,40.859171,-73.886811,536420.8,3839
+379,Rite Check Cashing,560 Balcom Ave,Bronx,40.821371,-73.826185,864311.51,890
+380,Castle Financial Svc,5824 Broadway # 1,Bronx,40.885313,-73.900182,653592.37,7758
+381,Rite Check Cashing Inc,583 E 138th St,Bronx,40.806529,-73.916662,918441.62,4520
+382,Baychester Payment Ctr,603 Westchester Ave,Bronx,40.816018,-73.910788,146580.34,6253
+383,V & V Check Cashing Corp,620 Castle Hill Ave # A,Bronx,40.820406,-73.848291,420142.94,5893
+384,Atm Cash Express Inc,638 E 169th St,Bronx,40.830993,-73.901206,922394.78,204
+385,Jackson Check Cashing Corp,648 Jackson Ave,Bronx,40.81572,-73.907883,493612.64,7828
+386,M & J Check Cashing,654 Courtlandt Ave,Bronx,40.819121,-73.918324,964141.66,5954
+387,Pay-O-Matic,664 E Tremont Ave,Bronx,40.845748,-73.891911,361246.38,9798
+388,Fast Cash Inc,667 E 187th St,Bronx,40.854755,-73.885559,499130.43,1286
+389,Wink Check Cashing Corp,677 Allerton Ave,Bronx,40.865459,-73.868257,170573.82,2450
+390,Pay-O-Matic,686 Nereid Ave,Bronx,40.898469,-73.854861,352231.59,2785
+391,Castle Financial Svc,689 Morris Park Ave,Bronx,40.845459,-73.866417,526462.99,6409
+392,Inbox Check Cashing Svc Inc,691 CO Op City Blvd # B,Bronx,40.880002,-73.823016,450387.32,3824
+393,Pay-O-Matic,697 E Gun Hill Rd,Bronx,40.877668,-73.867321,337783.27,1673
+394,Subway Check Cashing Svc,701 Hunts Point Ave,Bronx,40.815072,-73.886561,652719.23,8961
+395,Money Cash,71 E 204th St,Bronx,40.866857,-73.899139,896023.76,9610
+396,Rite Check Cashing,715 E 138th St,Bronx,40.804883,-73.912764,83815.87,9109
+397,PTL Check Cashing Corp,738 E 233rd St,Bronx,40.89291,-73.856001,839187.2,3816
+398,P R Check Cashing,747 E 132nd St,Bronx,40.800949,-73.914925,448532.9,1458
+399,Pay-O-Matic,797 Southern Blvd,Bronx,40.816341,-73.89669,965722.92,7926
+400,Quick Cash Inc,798 Hunts Point Ave,Bronx,40.816614,-73.887807,458355.11,5825
+401,Pay-O-Matic,81 W Fordham Rd,Bronx,40.862808,-73.904225,194656.58,1382
+402,Check Cashing Place,837 Soundview Ave,Bronx,40.822268,-73.867213,364591.13,922
+403,Cfs Check Cashing Inc,84 E 161st St,Bronx,40.827254,-73.924834,82282.33,3641
+404,PLS Check Cashers,84 W Fordham Rd,Bronx,40.862713,-73.904727,645223.6,2435
+405,Isiah Welsh Sm El Gs,843 E 229th St # 1,Bronx,40.889408,-73.854286,376218.54,7294
+406,Cash Transaction Inc,850 E 180th St,Bronx,40.845439,-73.883446,790933.53,2510
+407,Davids Check Cashing Inc,868 Prospect Ave,Bronx,40.820461,-73.901242,674419.9,1986
+408,ATM Cash Express,874 Hunts Point Ave,Bronx,40.81886,-73.889177,683401.35,1999
+409,Pay-O-Matic,890 E Tremont Ave,Bronx,40.842401,-73.885127,167279.43,5115
+410,Subway Check Cashing Svc,898 Hunts Point Ave,Bronx,40.81943,-73.889575,749966.64,6677
+411,Pay-O-Matic,931 E 174th St,Bronx,40.837349,-73.88694,531304.76,887
+412,Pay-O-Matic,936 E Gun Hill Rd,Bronx,40.874844,-73.859528,704356.85,4137
+413,Check Cashing Place,94 E 61st Rd,Bronx,40.814984,-73.907968,627221.74,6486
+414,Pay-O-Matic,977 Prospect Ave,Bronx,40.825754,-73.893863,366206.26,996
+415,Subway Check Cashing Svc,980 Intervale Ave # A,Bronx,40.822704,-73.896591,200725.65,2756
+416,Prima Check Cashing,LA Guardia Airport Termin,Flushing,40.768565,-73.887465,203174.99,1321
+417,Prima Check Cashing,Jfk International Airport,Jamaica,40.652756,-73.812765,850617.13,2708
+418,Pay-O-Matic,9925 Horace Harding Expy,Corona,40.736584,-73.857643,596054.66,6584
+419,JCG Check Cashing,9855 63rd Rd,Flushing,40.732643,-73.857452,595400.31,3516
+420,Csfc,9804 Queens Blvd,Rego Park,40.728111,-73.858055,73714.23,9012
+421,Fast Cash Industry Inc Ny De,9719 Jamaica Ave,Jamaica,40.694962,-73.847947,634231.82,1435
+422,Atn Check Cashing,9703 57th Ave,Flushing,40.73723,-73.863984,606766.9,5800
+423,F S Quality Check Cashing Co,97 3a 57 Ave,Elmhurst,40.740846,-73.878528,849346.11,8475
+424,ATN Check Cashing,9472 Corona Ave,Elmhurst,40.741894,-73.867737,122519.28,6763
+425,Sunrise Check Cashing Inc,9421 Astoria Blvd,East Elmhurst,40.762969,-73.874351,392743.33,6986
+426,New York Community Financial,9305 Jamaica Ave,Jamaica,40.693851,-73.851758,393564.63,6129
+427,Whitestone Check Cashing,9240 Guy R Brewer Blvd,Jamaica,40.703465,-73.796494,671399.49,6961
+428,Visa Check Cashing,9120 59th Ave # C,Elmhurst,40.733925,-73.86978,14575.5,5301
+429,Easy Cash Corp,9118 59th Ave,Elmhurst,40.733924,-73.869783,771385.76,5430
+430,Cash Zone,9079 Sutphin Blvd # 3,Jamaica,40.700904,-73.807246,203842.22,4225
+431,Har-Joe Check Cashing,9044 Parsons Blvd,Jamaica,40.703516,-73.800355,323221.26,2588
+432,Sunrise Check Cashing Corp,9006 Merrick Blvd,Jamaica,40.706835,-73.794964,407171.94,9653
+433,Number 1 Fast Cash,8952 165th St,Jamaica,40.706322,-73.795489,795582.62,2270
+434,Number 1 Fast Cash,8952 165th St,Jamaica,40.706322,-73.795489,584901.29,6563
+435,L C Check Cashing Corp,8948 Metropolitan Ave,Flushing,40.711895,-73.860386,197952.13,5708
+436,Pay-O-Matic Corp,8918 Roosevelt Ave,Jackson Height,40.748309,-73.87709,670279.97,5988
+437,American Quick Cash,8841 Ransom St,Jamaica,40.729366,-73.734687,878330.99,9126
+438,Cash Business Marketing ATM,8824 Van Wyck Expy,Jamaica,40.703156,-73.81736,91614.48,6635
+439,Button Ancillary Advance Svc,8803 107th Ave,Ozone Park,40.678226,-73.84964,593024.56,3315
+440,Cash ATM Systems Inc,8727 Britton Ave,Flushing,40.74778,-73.87885,405987.39,4979
+441,Peninsula Check Cashing,8712 Rockaway Beach Blvd,Rockaway Beach,40.58745,-73.812663,547662.77,953
+442,Fast Cash USA Inc,8542 Grand Ave,Flushing,40.735477,-73.88076,618993.97,9844
+443,Sunrise Check Cashing,8518 Queens Blvd,Elmhurst,40.736536,-73.87807,857939.59,1344
+444,Easy Cash Corp,8416 Astoria Blvd # E,Flushing,40.76447,-73.884692,745793.46,9928
+445,Cash In You Rnote LLC,8400 Shore Front Pkwy # 2,Rockaway Beach,40.586592,-73.804329,50305.99,1935
+446,Clb Check Cashing,8306 Broadway # 1,Elmhurst,40.740903,-73.879818,955765.37,7147
+447,Action Check Cashing,8136 Baxter Ave # 1,Flushing,40.745975,-73.883377,777537.97,5161
+448,CLB Check Cashing,8118 Northern Blvd,Flushing,40.755443,-73.885545,92311.16,1695
+449,Cash Gold,8116 Roosevelt Ave,Flushing,40.747411,-73.884157,765389.99,8576
+450,Fast Cash Enterprise Inc,8114 Northern Blvd,Flushing,40.755234,-73.88562,576006.1,7998
+451,College Point Check Cashing,8021 37th Ave,Flushing,40.749651,-73.885664,798789.91,1
+452,Credit & Funding,8011 164th St,Jamaica,40.721142,-73.804054,668294.93,6847
+453,NYC Cash Inc,8011 164th St,Jamaica,40.721142,-73.804054,207456.47,280
+454,Avenue Check Cashing,7801 Jamaica Ave,Jamaica,40.691872,-73.864013,55314.8,7709
+455,MCR Point Of Sale Systs Inc,7716 164th St,Fresh Meadows,40.723879,-73.804896,260351.71,6770
+456,Corona Check Cashing Corp,7702 Roosevelt Ave,Jackson Height,40.746933,-73.888359,772710.02,5164
+457,PLS Check Cashers,7622 Roosevelt Ave,Jackson Height,40.747083,-73.888752,600684.18,7993
+458,M M Cash Corp,7620 Jamaica Ave,Woodhaven,40.69149,-73.864815,742568.52,5151
+459,Jcg Check Cashing Inc,7417 Grand Ave,Flushing,40.730808,-73.88736,605000.34,9119
+460,Money Centers,7316 Metropolitan Ave,Flushing,40.712658,-73.878731,915584.91,8156
+461,Whitestone Check Cashing,7104 Kissena Blvd,Flushing,40.729628,-73.815213,69361.04,4599
+462,Cash Business Marketing,6919 Beach Channel Dr,Far Rockaway,40.592595,-73.79907,264126.63,9331
+463,CLB Check Cashing,6907 Northern Blvd,Woodside,40.754444,-73.896938,217143.54,9381
+464,Payamatic,6820 Queens Blvd,Flushing,40.740106,-73.896251,359228.7,696
+465,B & H Check Cashing,6816 Fresh Pond Rd,Ridgewood,40.704617,-73.896342,15718.87,7863
+466,Galaxia Check Cashing,6703 Roosevelt Ave,Woodside,40.746452,-73.897957,734314.06,6946
+467,United Check Cashing,6633 Grand Ave,Flushing,40.724888,-73.897835,868001.57,8979
+468,B & H Check Cashing Svc,6627 Fresh Pond Rd,Ridgewood,40.708221,-73.897554,304402.3,9186
+469,Village Cash For Gold,6550 Metropolitan Ave,Flushing,40.712231,-73.894218,282353.82,8175
+470,L C Check Cashing Corp,6204 Woodhaven Blvd # A,Flushing,40.726927,-73.870745,459290.98,9620
+471,Action Check Cashing Inc,6120 Springfield Blvd,Flushing,40.748343,-73.756379,778427.31,2998
+472,Mt Vernon Money Ctr,6110 Queens Blvd,Flushing,40.74091,-73.903664,702720.53,3290
+473,Pay-O-Matic,6029 Myrtle Ave,Ridgewood,40.70079,-73.89727,552219.06,2191
+474,LIE Check Cashing Corp,5967 55th Dr,Flushing,40.725947,-73.906371,210941.5,7685
+475,Subway Check Cashing Svc,5924 Grand Ave,Flushing,40.720581,-73.907471,884935.92,2140
+476,Pay-O-Matic,5814 Roosevelt Ave # A,Woodside,40.745145,-73.906067,89351.19,978
+477,Money Centers,5802 Borden Ave,Flushing,40.729553,-73.9114,421390.09,6375
+478,Pay-O-Matic,5654 Myrtle Ave,Flushing,40.700146,-73.904236,145966.5,1448
+479,M M Cash Corp,5502 108th St,Corona,40.740826,-73.853844,666072.84,9126
+480,Easy Cash Corp,5411 Northern Blvd # 4,Flushing,40.753712,-73.906143,394466.99,2855
+481,MMR Check Cashing Corp,5410 Flushing Ave,Maspeth,40.714923,-73.913011,101354.24,1659
+482,CLB Check Cashing Inc,5305 108th St,Flushing,40.742487,-73.854331,358113.93,8332
+483,Check Cashing Place,5241 Van Dam St,Long Island Ci,40.735824,-73.936613,629892.96,7906
+484,Mott Ave Check Cashing Corp,524 Beach 20th St,Far Rockaway,40.600146,-73.753722,929313.44,2303
+485,CLB Check,520 45th Ave,Long Island Ci,40.749371,-73.940395,14053.34,6066
+486,Payomatic,4915 Vernon Blvd,Long Island Ci,40.742869,-73.953729,49767.1,1666
+487,All American Check Cashing,4712 Broadway,Long Island Ci,40.755962,-73.913208,243582.49,6368
+488,Pay-O-Matic,4614 Queens Blvd,Sunnyside,40.742921,-73.918351,340170.35,5398
+489,Into White Dental Arts PLLC,4611 156th St,Flushing,40.753761,-73.810234,872148.88,2305
+490,Check Cashing LLC,4501 Northern Blvd # E,Long Island Ci,40.753956,-73.917543,562776.01,3492
+491,Super Cash,4466 21st St,Long Island Ci,40.74788,-73.947675,762059.71,8966
+492,Action Check Cashing Inc,4427 Kissena Blvd,Flushing,40.753263,-73.821964,689586.79,5225
+493,E Check & Cash Inc,4404 Kissena Blvd,Flushing,40.753345,-73.822693,371380.47,2054
+494,Money Centers,4404 21st St,Long Island Ci,40.749397,-73.947227,270166.17,291
+495,F S Quality Check Cashing In,4339 91st Pl,Flushing,40.742632,-73.873595,48244.81,6415
+496,Claim Cash Ny,4325 Douglaston Pkwy,Flushing,40.766975,-73.745636,853604.2,3050
+497,Whitestone Check Cashing Cor,4215 College Point Blvd,Flushing,40.754516,-73.832935,880921.49,249
+498,Larry & King Communications,4146 Main St # 201,Flushing,40.756969,-73.828976,862990.86,9315
+499,SMJ Service Inc,4122 Greenpoint Ave,Sunnyside,40.740283,-73.923262,474052.46,6723
+500,Republic Capital Group,4122 College Point Blvd,Flushing,40.755592,-73.833771,537973.65,8176
+501,Whitestone Check Cashing,4105 Northern Blvd,Long Island Ci,40.753021,-73.922516,583834.73,2270
+502,Continental Check Cashing,4035 Junction Blvd # 2,Flushing,40.748306,-73.868546,675817.2,9295
+503,Pay-O-Matic,4035 21st St # 5,Long Island Ci,40.754772,-73.941611,747193.55,9002
+504,Pay O Tamic Check Cashing,4035 21st St,Long Island Ci,40.754772,-73.941611,701335.91,9270
+505,Pay-O-Matic,3928 Queens Blvd,Sunnyside,40.743685,-73.925009,546068.09,7463
+506,Into Graphic Corp,3910 63rd St,Woodside,40.746295,-73.900953,244950.58,8800
+507,PLS Check Cashers,3810 Junction Blvd,Flushing,40.749298,-73.869858,180779.87,9088
+508,Check In,3803 Main St,Flushing,40.760681,-73.830626,395829.31,2004
+509,Pay-O-Matic,3774 90th St,Jackson Height,40.748444,-73.876545,364526.83,5508
+510,Cashzone Check Cashing,3552 31st St,Astoria,40.756901,-73.929878,143250.37,2656
+511,Regina Check Cashing,3505 Junction Blvd,Flushing,40.753221,-73.871662,832128.84,4234
+512,David's Check Cashing,3412 Steinway St,Long Island Ci,40.756024,-73.921471,799381.83,5704
+513,KAF Check Cashing Inc,3324 Northern Blvd # A,Long Island Ci,40.751895,-73.931047,496509.47,1061
+514,KAF Check Cashing Inc,3244 Queens Blvd,Long Island Ci,40.744328,-73.931961,895586.38,921
+515,SMJ Service Inc,3188 21st St,Astoria,40.765414,-73.931584,542657.67,2867
+516,Pay-O-Matic,3100 47th Ave # H,Long Island Ci,40.74303,-73.935792,384353.29,7956
+517,Pay-O-Matic,3031 Stratton St,Flushing,40.769091,-73.834114,930069.24,6944
+518,Whitestone Check Cashing,3031 Stratton St,Flushing,40.769091,-73.834114,863090.9,6801
+519,Pay-O-Matic,3014 31st St # A,Astoria,40.766636,-73.921982,386484.61,8611
+520,Pay-O-Matic,3008 Broadway,Astoria,40.762168,-73.925912,579418.51,1121
+521,J C Check Cashing LLC,2920 Hoyt Ave S,Astoria,40.770694,-73.918251,273620.01,7811
+522,Quick Cash,2914 30th Ave,Astoria,40.767432,-73.922647,651744.87,8432
+523,Cfsc,2559 Steinway St,Long Island Ci,40.766388,-73.912605,615026.5,6310
+524,Challenger II Check Cashing,25314 Rockaway Blvd,Rosedale,40.635729,-73.740297,204698.14,6494
+525,KAF Check Cashing Inc,2508 Queens Plz S,Long Island Ci,40.750198,-73.939976,546571.48,3442
+526,CLB Check Cashing,24712 S Conduit Ave,Jamaica,40.665322,-73.730829,694352.98,2392
+527,EGI Check Cashing,23136 Merrick Blvd,Laurelton,40.675322,-73.738408,839435.33,4402
+528,T A S Check Cashing Inc,2305 31st St,Astoria,40.774189,-73.913008,305782.21,9709
+529,Tax Check Cashing Inc,2305 31st St,Long Island Ci,40.774189,-73.913008,796092.92,6959
+530,PLS Check Cashers,23002 S Conduit Ave,Springfield Gd,40.665184,-73.747124,25602.39,3282
+531,Queens Check Cashing Corp,22411 Linden Blvd,Jamaica,40.694079,-73.73591,66805.82,5862
+532,CLB Check Cashing,22206 S Conduit Ave,Jamaica,40.665218,-73.755585,828216.7,7816
+533,Cash ATM Systems Inc,22201 Linden Blvd # Grd,Jamaica,40.694702,-73.737976,173562.31,9891
+534,Glass Check Cashing Corp,21919 Jamaica Ave,Queens Village,40.71867,-73.735588,279222.67,5411
+535,Quick Cash,21880 Hempstead Ave,Queens Village,40.712914,-73.735476,374071.49,8848
+536,Village Check Cashing,21856 Hempstead Ave,Jamaica,40.713182,-73.736233,665696.36,1720
+537,Quick Cash Of Laurelton LLC,21706 Merrick Blvd,Laurelton,40.67971,-73.752304,162201.29,6240
+538,Mott Ave Check Cashing Corp,2138 Mott Ave,Far Rockaway,40.605297,-73.754646,642753.51,7713
+539,Avenue Check Cashing,21233 Jamaica Ave # A,Jamaica,40.716217,-73.745995,504877.18,8153
+540,Bel-Air Check Cashing Corp,20714 Northern Blvd,Flushing,40.758472,-73.775936,264668.83,412
+541,Bel Air Check Cashing Corp,20601 Hollis Ave,Queens Village,40.707702,-73.750976,658320.49,5532
+542,Sunrise Check Cashing,20521 Linden Blvd,Jamaica,40.695945,-73.746992,731313.01,1091
+543,Pay-O-Matic,20519 Jamaica Ave # 1,Hollis,40.714062,-73.754463,551236.62,3514
+544,POM-Clb Check Cashing Inc,20506 Hillside Ave,Hollis,40.720697,-73.760085,70726.9,8917
+545,Melissa Check Cashing Corp,19613 Linden Blvd,Jamaica,40.693569,-73.755592,41011.79,4015
+546,College Point Check Cashing,1910 Hazen St # 4,East Elmhurst,40.773754,-73.893616,303570.06,9737
+547,CLB Check Cashing Inc,18834 Linden Blvd,Jamaica,40.69146,-73.76281,695966.09,5356
+548,Action Check Cashing Inc,18806 Jamaica Ave # B,Jamaica,40.710815,-73.770203,936124.9,9811
+549,Action Check Cashing Inc,188 6b Jamaica Ave,Hollis,40.715703,-73.767429,373466.57,975
+550,Cash Quick,18602 122nd Ave,Jamaica,40.683052,-73.759814,863047.65,4716
+551,SMJ Service Inc,1833 27th Ave,Astoria,40.772614,-73.926208,415921.57,9942
+552,College Point Check Cashing,1830 College Point Blvd,Flushing,40.782439,-73.84596,467365.55,3850
+553,Queens Check Cashing Corp,18209 Jamaica Ave,Jamaica,40.708881,-73.778687,333871.03,4712
+554,M L Z Home Care,1819 E 13th,Flushing,40.772608,-73.747203,427996.24,9238
+555,Subway Check Cashing,17939 Hillside Ave,Jamaica,40.712915,-73.783113,274238.75,3089
+556,Cash Money Brothers Corp,17721 105th Ave,Jamaica,40.704071,-73.780594,411303.62,1228
+557,Quick Cash,17531 Jamaica Ave,Jamaica,40.708244,-73.784645,180890.69,318
+558,Cash For Gold,17233 Hillside Ave,Jamaica,40.712126,-73.789277,127757.81,6905
+559,Queens Check Cashing Corp,17015 Jamaica Ave # A,Jamaica,40.70755,-73.789307,401175.26,1731
+560,16805 Union Turnpike Check,16805 Union Tpke,Flushing,40.723086,-73.800082,196834,1644
+561,Jamaica Check Cashing Corp,16706 Hillside Ave,Jamaica,40.70971,-73.79545,952593.19,3119
+562,Caf Childrens Clothes,16210 Jamaica Ave # 1342,Jamaica,40.70425,-73.79765,259290.83,3464
+563,Pay-O-Matic,16039 Rockaway Blvd,Jamaica,40.663544,-73.776428,787145.66,1173
+564,Franklin Check Cashing Inc,16005 Hillside Ave,Jamaica,40.708287,-73.801785,434238.11,7188
+565,Bel-Air Check Cashing Corp,15917 Northern Blvd,Flushing,40.763215,-73.806218,271552.06,4662
+566,Americash,15848 Crossbay Blvd,Howard Beach,40.662739,-73.842719,94577.99,3529
+567,Trans Multi Svc Corp,15340 Hillside Ave,Jamaica,40.707409,-73.802826,102097.51,6500
+568,Cash Business Marketing & At,14864 Hillside Ave,Jamaica,40.706389,-73.807131,292185.92,3183
+569,Pay-O-Matic,14739 Union Tpke,Flushing,40.71868,-73.813917,382776.71,3911
+570,Pay-O-Matic,14703 Guy R Brewer Blvd,Jamaica,40.660885,-73.767738,461421.55,9042
+571,Whitestone Check Cashier,14703 Guy R Brewer Blvd,Jamaica,40.660885,-73.767738,397735.97,7670
+572,Whitestone Check Cashing,147 3a Guy R Brewer Blvd,Jamaica,40.676643,-73.776841,879638.01,489
+573,Cash It Corp,14647 228th St,Springfield Gd,40.658989,-73.753136,617673.39,4177
+574,Jcg Check Cashing Inc,14615 Jamaica Ave,Jamaica,40.701935,-73.808399,723024.73,9342
+575,JCG Check Cashing Inc,14615 Jamaica Ave,Jamaica,40.701935,-73.808399,222625.57,2874
+576,Joey's Check Cashing,14610 Hillside Ave,Jamaica,40.705364,-73.810059,990962.33,3627
+577,Coqui Check Cashing,14443 Farmers Blvd,Jamaica,40.666506,-73.766875,887388.22,4849
+578,Whitestone Check Cashing,14412 Northern Blvd,Flushing,40.764657,-73.822698,213480.07,9487
+579,Cash It Corp,14302 Lakewood Ave,Jamaica,40.688606,-73.804146,458668.76,4840
+580,Check Busters,14219 Rockaway Blvd,Jamaica,40.67429,-73.79818,574420.57,790
+581,Money Centers,13817 Queens Blvd,Jamaica,40.704485,-73.815934,802966.05,4473
+582,J T S Check Cashing,13810 Farmers Blvd,Jamaica,40.672486,-73.764206,779432.33,2030
+583,SMJ Service Inc,13511 Northern Blvd,Flushing,40.763245,-73.832863,395604.97,3698
+584,Van Wyck Check Cashing Corp,13508 Jamaica Ave,Jamaica,40.702377,-73.817262,172269.39,1840
+585,Inner City Check Cashing,13507 Liberty Ave,Jamaica,40.691925,-73.811653,969492.88,1374
+586,Prince Check Cashing Corp,13503 Roosevelt Ave,Flushing,40.759224,-73.831818,915749.78,289
+587,Belair Payroll Svc Inc,13410 Guy R Brewer Blvd #,Jamaica,40.672959,-73.775747,606417.11,4676
+588,Fulton Max Intl,13331 39th Ave,Flushing,40.759563,-73.833725,902671.16,9883
+589,Whitestone Check Cashing,13133 31st Ave,Flushing,40.769482,-73.837685,783782.48,7745
+590,ABRS Check Cashing Corp,1271 Ralph Ave,Flushing,40.772608,-73.747203,21630.96,8656
+591,Check Busters Financial Svc,12703 Merrick Blvd,Jamaica,40.681674,-73.765439,250768.64,6994
+592,Bfc Check Cashing,12701 Rockaway Blvd,South Ozone Pa,40.675287,-73.810708,542118.26,445
+593,Atn Atm Check Cashing Corp,12211 Guy R Brewer Blvd #,Jamaica,40.678786,-73.779735,80003.91,2307
+594,Cash Business Marketing,12205 Merrick Blvd,Jamaica,40.68394,-73.769348,875590.14,9498
+595,College Point Check Cashing,12036 Queens Blvd # A,Jamaica,40.713328,-73.829015,866232.98,2317
+596,Cash Business Marketing ATM,12020 Merrick Blvd,Jamaica,40.683723,-73.77021,906139.24,2468
+597,M & M Cash,11902 Sutphin Blvd,Jamaica,40.679192,-73.792015,516737.36,5928
+598,Baisley Money Market Inc,11707 Guy R Brewer Blvd,Jamaica,40.684101,-73.782562,703031.04,4002
+599,Map Advance Svc LLC,11433 199th St,St Albans,40.698891,-73.754875,583146.54,6243
+600,Cash It Corp,11425 Farmers Blvd,Jamaica,40.697313,-73.761698,980788.18,8508
+601,Alivad Associates Inc,11417 Rockaway Beach Blvd,Far Rockaway,40.580151,-73.835822,798559.76,9089
+602,JTSLLC,11408 Merrick Blvd,Jamaica,40.691303,-73.779289,976433.62,1492
+603,Check N Balance,11331 209th St,Queens Village,40.702827,-73.745857,110905.14,222
+604,Atn Check Cashing Corp,11303 Sutphin Blvd,Jamaica,40.686924,-73.793983,328044.63,4449
+605,Check Cashing Store Inc,11128 Springfield Blvd,Jamaica,40.70601,-73.739673,889603.17,8147
+606,Check Cashing Store,11124 Roosevelt Ave # A,Corona,40.751637,-73.854805,459560.79,6074
+607,Metro Tech Check Cashing,1109 Cypress Ave,Ridgewood,40.696175,-73.899391,90258.72,4848
+608,123 Community Check Cash Inc,10929 Farmers Blvd,St Albans,40.703213,-73.766319,462653.24,9015
+609,Cash It Corp,10902 101st Ave,Jamaica,40.687431,-73.834198,455578.37,4476
+610,Check Busters Financial Svc,10808 Guy R Brewer Blvd,Jamaica,40.696194,-73.791344,385814.94,3277
+611,PLS Check Cashers,10522 Northern Blvd,Flushing,40.757492,-73.862877,569534.83,9881
+612,Cross Bay Check Cashing Corp,10516 Crossbay Blvd,Ozone Park,40.679718,-73.844955,645949.11,3393
+613,Continental Check Cashing,10402 Northern Blvd,Corona,40.757412,-73.864441,127965.39,9498
+614,Fast Cash Enterprise,10402 Jamaica Ave,Jamaica,40.694988,-73.843185,283599.65,3309
+615,Pay-O-Matic,10226 Atlantic Ave,Jamaica,40.690048,-73.841715,952833.44,5781
+616,Pay-O-Matic,10210 Roosevelt Ave,Corona,40.749584,-73.863617,189985.72,3095
+617,Prima Check Cashing Inc,1 Central Terminal Area,Jamaica,40.652756,-73.812765,372297.01,147
+618,Avenue D Check Cashing Corp,99 Avenue C # 2,New York,40.724001,-73.979252,223246.78,8764
+619,Madison St James Check Cashi,99 Avenue C # 1,New York,40.724001,-73.979252,111279.95,9720
+620,Mvmc Pussy Cat Bar,96 Greenwich St,New York,40.708202,-74.013767,754604.79,5162
+621,NYC Check Express,946 2nd Ave,New York,40.754972,-73.968377,167800.47,2856
+622,Pay-O-Matic,94 8th Ave,New York,40.740078,-74.001919,733089.52,2087
+623,CMA Ny Payment Ctr,93 Nassau St # 1,New York,40.710265,-74.007803,182854.71,5753
+624,Pay-O-Matic,926 Columbus Ave # 1,New York,40.798974,-73.963409,256627.84,4014
+625,Esther Check Cashing Inc,91 Pinehurst Ave,New York,40.85104,-73.939226,432885.89,2177
+626,Fone Cash,90 Park Ave,New York,40.750669,-73.979255,852838.9,1652
+627,Fast Cash USA Inc,9 Maiden Ln,New York,40.709644,-74.009262,798954.67,6427
+628,David's Check Cashing,89 E 116th St,New York,40.799779,-73.943795,804192.23,9559
+629,Atm Cash Express,89 Avenue A,New York,40.725482,-73.984309,330279.99,5385
+630,Vic's Check Cashing Corp,885 10th Ave # 2,New York,40.769727,-73.988496,55377.58,3376
+631,National Money Mart,875 3rd Ave,New York,40.757218,-73.969176,10878.78,1923
+632,Fast Cash,86 W Broadway # 1,New York,40.714968,-74.009721,455204.31,5864
+633,Max Cash Corp,83 2nd Ave,New York,40.726767,-73.989394,117485.65,2943
+634,Greeley Square Check Cashing,827 Avenue Of The America,New York,40.746546,-73.990443,630991.27,2324
+635,West Side Check Cashing,826 10th Ave,New York,40.767541,-73.989281,736318.92,1877
+636,Liberty Check Cashing Inc,80 Lafayette St # 1,New York,40.717058,-74.001849,166672.48,3800
+637,Vina Express Corp Anthony,80 5th Ave # 1104,New York,40.735937,-73.994086,351435.85,9104
+638,Chambers Street Check Cashin,79 Chambers St,New York,40.714688,-74.006683,550822.41,8222
+639,Pay-O-Matic,763 9th Ave # 2,New York,40.764439,-73.988649,331006.25,8872
+640,Atm Cash Express Inc,736 7th Ave,New York,40.76036,-73.983894,994492.25,6155
+641,G & R Check Cashing Corp Ix,73 4th Ave,New York,40.731446,-73.990276,979370.07,7800
+642,Park Check Cashers Inc,728 Amsterdam Ave,New York,40.793865,-73.970916,97042.44,3498
+643,Fast Cash,721 2nd Ave,New York,40.747801,-73.973737,498861.59,7733
+644,NYC Check Express Inc,72 Warren St,New York,40.715115,-74.009924,710651.04,6495
+645,Guardian Cash Fund Inc,7 Hanover Sq # 19-C,New York,40.704065,-74.009602,845049.26,5615
+646,Fast Cash USA Inc,69 1st Ave,New York,40.725509,-73.987282,756700.79,8351
+647,Fifth Seventy Seven Inc,648 5th Ave,New York,40.765788,-73.984648,424990.78,7495
+648,10th Avenue Check Cashing Co,644 10th Ave # 1,New York,40.761749,-73.993609,218121.26,7496
+649,Cash & Flash,642 Lexington Ave,New York,40.759305,-73.970379,928033.2,5722
+650,Lazer Check Cashing Corp,637 W 50th St,New York,40.766799,-73.996215,943208.53,6453
+651,Division Investments Cash Mg,633 3rd Ave,New York,40.749548,-73.974661,258714.37,6700
+652,Popular Cash Express Inc,615 W 181st St,New York,40.84971,-73.93454,322260.79,7101
+653,Freeman Check Cashing Inc,608 W 149th St,New York,40.828992,-73.949425,429349.88,2469
+654,Lehman Brothers Instnl,605 3rd Ave # 2,New York,40.749155,-73.975571,426174.68,67
+655,Pay-O-Matic,590 8th Ave,New York,40.755135,-73.991269,498737.79,6176
+656,Cashzone Check Cashing,59 W 8th St # 2,New York,40.733547,-73.998949,43501.36,7736
+657,Cyber Cash,575 Lexington Ave,New York,40.757169,-73.971258,855252.02,4738
+658,Atm Cash Express Inc,572 9th Ave,New York,40.758089,-73.992594,686391.31,4229
+659,Rite Check,571 W 125th St,New York,40.815506,-73.957969,950135.89,8675
+660,Money Centers,57 Pitt St # 1,New York,40.717765,-73.983094,505377.21,7726
+661,Km Cash Flow LLC,562 W 164th St # 24,New York,40.838104,-73.941045,971835.84,3869
+662,Veil Check Cashing Corp,554 W 181st St,New York,40.848861,-73.933007,830073.61,2991
+663,Pay-O-Matic,551 Columbus Ave,New York,40.786699,-73.971942,92300.94,9456
+664,Pay-O-Matic,543 Columbus Ave,New York,40.786465,-73.97211,190643.58,9354
+665,O C Glass Jr Check Cashing,539 Malcolm X Blvd # 1,New York,40.815807,-73.940082,416921.2,5122
+666,Euro Cash,535 W 34th St,New York,40.755378,-74.000925,875087.08,6188
+667,Campo Arthur,516 W 188th St,New York,40.852671,-73.928712,624331.88,8545
+668,Pay-O-Matic,514 W 207th St,New York,40.864985,-73.919549,828359.29,2092
+669,Pay-O-Matic,50 Spring St,New York,40.721839,-73.996581,124243.6,1885
+670,Cash Markets Group,50 Broad St,New York,40.705733,-74.011866,279848.99,2983
+671,5 E 41st St Check Cashing Co,5 E 41st St # 1,New York,40.749024,-73.972419,313155.57,7594
+672,Pay-O-Matic,4984 Broadway,New York,40.868212,-73.919223,413251.75,503
+673,Quick Cash Inc,494 Audubon Ave,New York,40.854283,-73.928654,467432.24,9985
+674,AIM Cash Express Inc,480 9th Ave,New York,40.755029,-73.994752,894552.37,3164
+675,Castle Check Cashing Corp,4764 Broadway,New York,40.865608,-73.926912,176750.97,233
+676,Apex Advance LLC,475 Park Ave,New York,40.761923,-73.970048,695281.5,9237
+677,Franklin Check Cashing Corp,473 Malcolm X Blvd # 1,New York,40.813405,-73.941909,923495.11,7845
+678,BRG Check Cashing Inc,470 Amsterdam Ave,New York,40.785467,-73.976707,824249.61,3371
+679,ATM Cash Express,4520 Broadway,New York,40.858337,-73.931441,929279.95,8033
+680,Check Cashing Place,4459 Broadway,New York,40.857142,-73.932482,189571.48,9836
+681,Americash,42 W 48th St,New York,40.757917,-73.980224,96167.67,3764
+682,Castle Check Cashing Corp,4186 Broadway # 1,New York,40.847976,-73.937551,649849.24,9573
+683,G & R Check Cashing Corp,40 E 33rd St,New York,40.746564,-73.9823,887532.72,5102
+684,Fast Cash USA Inc,386 Canal St,New York,40.721506,-74.004918,671105.07,7566
+685,Assets Cash Trust,380 Madison Ave,New York,40.755687,-73.97723,462605.95,8420
+686,NYC Check Express,38 E 23rd St,New York,40.740381,-73.987479,631067.58,8841
+687,Castle Check Cashing Corp,3776 Broadway,New York,40.833883,-73.944827,194295.86,867
+688,Min Cash,377 Canal St,New York,40.719753,-74.003344,150421.53,8272
+689,G & R Check Cashing,37 W 43rd St,New York,40.756636,-73.986401,826593.11,4950
+690,Pay-O-Matic,3657 Broadway # 3,New York,40.83023,-73.948019,689738.72,4971
+691,G & R Check Cashing,365 7th Ave # 1,New York,40.748653,-73.992269,310121.59,7302
+692,Check Cashing By EGI,365 1st Ave,New York,40.735964,-73.979611,939565.15,8442
+693,P R Check Cashing,362 W 110th St,New York,40.801469,-73.960652,63816.71,446
+694,Freeman Check Cashing,361 Canal St,New York,40.721175,-74.003914,203515.99,4575
+695,Cash Zone,36 W 44th St,New York,40.755177,-73.9822,975726.83,7835
+696,Uneeda Check Cashing Inc,356 W 145th St,New York,40.823717,-73.944128,130744.46,6030
+697,Atm Cash Express,354 Malcolm X Blvd,New York,40.809607,-73.94399,47765.61,1171
+698,ATM Cash Express Inc,350 W 14th St,New York,40.740444,-74.004895,917666.56,296
+699,St Lolly Intl Inc,350 5th Ave,New York,40.748419,-73.984632,392840.09,5252
+700,Check Cashing Corp,35 E 32nd St,New York,40.74635,-73.983054,514746.82,668
+701,Pay-O-Matic,3433 Broadway,New York,40.823202,-73.953001,306461.62,3805
+702,Freeman Check Cashing,3426 Broadway,New York,40.822775,-73.952923,36335.93,8883
+703,Pay-O-Matic,3352 Broadway,New York,40.820374,-73.954678,79406.1,7048
+704,Freeman Check Cashing Inc,3346 Broadway,New York,40.820238,-73.954777,678110.68,6522
+705,Cash In Time LLC,325 Broadway # 402,New York,40.716177,-74.005007,567040.14,1344
+706,Veil Check Cashing Corp,319 Audubon Ave,New York,40.848873,-73.932174,232446.93,1837
+707,318 3rd Ave Check Cashing Co,318 3rd Ave,New York,40.739521,-73.982991,9005.38,9919
+708,In Advance LLC,312 W 90th St # 3a,New York,40.791577,-73.976867,119217.48,3491
+709,Check Cashing Place,302 Malcolm X Blvd,New York,40.807812,-73.94528,893265.92,646
+710,E G I Check Cashing Corp,302 E 19th St,New York,40.735207,-73.982439,799887,8658
+711,G & R Check Cashing,300 W 44th St,New York,40.758495,-73.988878,463063.44,3952
+712,"Albert, Joseph",300 E 5th St,New York,40.726739,-73.989016,515887.54,2120
+713,Duo Cash,3 W Broadway,New York,40.71449,-74.008717,634449.09,7440
+714,David's Check Cashing Inc,3 E 125th St,New York,40.806409,-73.942135,237195.58,886
+715,Pay-O-Matic,295 Church St # A,New York,40.719113,-74.004342,150004.56,8486
+716,Rico Check Cashing Corp,290 Malcolm X Blvd,New York,40.807393,-73.945298,450258.66,2674
+717,Davids Check Cashing,2802 Frederick Douglass B,New York,40.825661,-73.939393,743875.85,3553
+718,Case Cash Now,280 Madison Ave # 808,New York,40.751437,-73.980343,344670.39,733
+719,Cash In Flash,28 W 33rd St,New York,40.748191,-73.986166,118356.03,7795
+720,Uneeda Check Cashing Inc,2664 Broadway,New York,40.797976,-73.969162,808635.39,7125
+721,Karon Check Cashing Inc,261 W 109th St,New York,40.803504,-73.966863,618173.82,2879
+722,Merchants Cash LLC,261 Madison Ave # 1502,New York,40.750424,-73.980623,405815.73,6916
+723,Rite Check Cashing Inc,2602 Frederick Douglass B,New York,40.81877,-73.944828,353808.72,8636
+724,Rite Check Cashing Inc,2500 Frederick Douglass B,New York,40.815499,-73.94692,774427.62,2532
+725,Rite Check Cashing Inc,2500 Adam C Powell Jr Blv,New York,40.821973,-73.939337,617636,636
+726,Rite Check,2500 7 Av,New York,40.821973,-73.939337,327752.05,867
+727,POM-Clb Check Cashing Corp,250 E Houston St # 250,New York,40.722075,-73.984757,960432.3,5430
+728,Fast Cash USA Inc,250 Broome St,New York,40.718171,-73.989696,114742.9,6435
+729,Pay-O-Matic,249 Eldridge St # 2,New York,40.72309,-73.989521,262305.13,9097
+730,Mt Vernon Money Ctr,246 E 14th St,New York,40.732521,-73.985484,73206.25,1764
+731,Coney Island Payroll,245 W 29th St # 1,New York,40.748583,-73.99453,221714.44,8635
+732,Cash Markets Group,240 W 35th St,New York,40.752109,-73.991831,455601.23,2772
+733,Aquarius Check Cashing Svc,24 John St,New York,40.709565,-74.008812,975616.72,2867
+734,Max Cash Corp,24 1st Ave,New York,40.72356,-73.987836,144081.82,8471
+735,Freeman Check Cashing,2351 2nd Ave # 2,New York,40.800039,-73.935951,951110.02,1222
+736,Pay-O-Matic,2351 2nd Ave,New York,40.800039,-73.935951,438409.47,1148
+737,Rite Check Cashing Inc,2338 Frederick Douglass B,New York,40.81042,-73.950571,453486.69,4177
+738,Checklot Service Ctr Inc,233 Broadway # 2374,New York,40.71228,-74.008422,224186.51,2543
+739,APL Check Cashing LLC,2326 Amsterdam Ave,New York,40.844781,-73.933404,529614.93,1832
+740,Regina Check Cashing Corp,228 E 14th St,New York,40.732579,-73.986225,211247.81,9272
+741,Franklin Check Cashing Corp,228 Avenue B # 2,New York,40.729302,-73.978494,555895.55,8616
+742,ATM Cash Express,2268 Frederick Douglass B,New York,40.807885,-73.952417,485757.73,1028
+743,Uneeda Check Cashing Inc,2254 1st Ave,New York,40.795723,-73.9352,987545.82,5687
+744,Quick Cash-First Avenue & 11,2244 1st Ave,New York,40.795436,-73.93545,475399.91,8837
+745,United Check Cashing,224 Varick St,New York,40.729076,-74.005004,54746.32,7039
+746,Pay-O-Matic,224 8th Ave # C,New York,40.744152,-73.998872,160302.72,9110
+747,Value Line Cash Fund Inc,220 E 42nd St # 6,New York,40.749766,-73.973186,964033.71,151
+748,Pay-O-Matic,2168 2nd Ave,New York,40.793992,-73.939669,725998.49,7252
+749,Cash Edge Inc,215 Park Ave S # 1300,New York,40.736796,-73.988339,282706.1,6027
+750,H Casher & Assoc,211 E 70th St,New York,40.768393,-73.960501,626030.19,7436
+751,Chase Cashing Ctr Inc,209 Audubon Ave,New York,40.849006,-73.935093,211964,8990
+752,Franklin Check Cashing Corp,2081 Lexington Ave,New York,40.804647,-73.93716,693771.24,9716
+753,Check Spring Financial Svc,2049 Frederick Douglass B,New York,40.801456,-73.957902,834718.38,4787
+754,PLS Check Cashers,2040 Amsterdam Ave # 1,New York,40.835642,-73.940394,612389.41,4043
+755,Atm Cash Express,204 Avenue A,New York,40.729362,-73.980751,425905.4,9490
+756,Cfsc,2033 2nd Ave,New York,40.789797,-73.943461,549946.64,6832
+757,Armat Limited,203 W 28th St,New York,40.747355,-73.993508,584776.07,8330
+758,Mt Vernon Money Ctr,203 E 115th St,New York,40.797232,-73.939952,82181.42,7245
+759,Max Cash Corp,201 Avenue A,New York,40.729481,-73.981328,893367.74,8697
+760,Lazer Check Cashing,200 W 20th St # 105,New York,40.742191,-73.997033,243206.79,6133
+761,Pay-O-Matic,200 W 14th St # 5,New York,40.738518,-73.999713,336804.98,3422
+762,Dreyfus Cash Mgmt Plus Inc,200 Park Ave # 7east,New York,40.753479,-73.977111,262761.6,8962
+763,A & A Check Cashing Corp,1969 A C Powell Blvd,New York,40.80271,-73.953022,701352.68,5656
+764,College Point Check Cashing,1942 1st Ave,New York,40.787669,-73.941432,278195.01,6338
+765,ATM Cash Express Inc,1924 2nd Ave,New York,40.786256,-73.945146,296558.82,7576
+766,P R Check Cashing Inc,1901 Lexington Ave # 5,New York,40.79999,-73.940557,811080.03,8599
+767,Cfsc,1869 2nd Ave # 1,New York,40.784653,-73.947205,6184.22,2152
+768,Egi Check Cashing Corp,183 Broadway,New York,40.710288,-74.009947,484551.55,991
+769,Uneeda Check Cashing Inc,1796 Lexington Ave,New York,40.795753,-73.94379,470447.92,2664
+770,Fast Cash USA Inc,179 2nd Ave,New York,40.730618,-73.986256,12310.03,1992
+771,"Cash, Bradley MD",1760 3rd Ave,New York,40.786364,-73.948531,793656.52,1805
+772,Popular Cash Express,175 Dyckman St,New York,40.864194,-73.925983,90453.83,5528
+773,Prima Check Cashing Corp,1740 1st Ave,New York,40.779399,-73.947138,369575.15,7675
+774,KHL Inc,170 1st Ave # 2,New York,40.728933,-73.98396,890640.98,2461
+775,Karbill Check Cashing,167 E 87th St # 1,New York,40.780065,-73.954253,30591.65,4739
+776,Uneeda Check Cashing Inc,1629 Lexington Ave,New York,40.790159,-73.947742,947451.2,3575
+777,Noble Checks,1609 47th St,New York,40.760176,-73.973862,795850.71,3755
+778,Check Busters Financial Svc,158 E 45th St,New York,40.752709,-73.973193,294590.62,3312
+779,Franklin Check Cashing Corp,1577 Saint Nicholas Ave #,New York,40.854441,-73.930054,234134.29,16
+780,Easy Cash Corp,156 W 56th St # 12,New York,40.764566,-73.979996,514518.27,6636
+781,College Point Check Cashing,1546 Madison Ave,New York,40.79277,-73.950384,859237.29,8428
+782,Church Street Check Cashing,152 E Broadway,New York,40.714186,-73.990844,843212.84,7515
+783,Regina Check Cashing Corp,1459 Amsterdam Ave # 1,New York,40.816845,-73.953397,309082.03,8815
+784,Uneeda Check Cashing,1436 Lexington Ave # 1,New York,40.784404,-73.952294,105722.1,8139
+785,C R Check Cashing,140 W 55th St,New York,40.763529,-73.979935,952967.8,1496
+786,Cash Zone Check Cashing Corp,140 W 36th St,New York,40.751597,-73.988677,907368.1,1306
+787,Metro Cash Card,1350 Avenue Of The Americ,New York,40.762653,-73.977846,54991.7,3781
+788,Fast Cash,1348 Amsterdam Ave # A,New York,40.813823,-73.956013,738247.47,3128
+789,Merchant Services,132 W 31st St # 13,New York,40.748188,-73.990781,740236.15,1975
+790,Uneeda Check Cashing Inc,1316 5th Ave # 2,New York,40.797472,-73.949171,912021.18,6018
+791,5 E 41st St Check Cashing Co,128 E 29th St,New York,40.743294,-73.982355,573704.23,1113
+792,Fast Cash USA,128 10th Ave,New York,40.744429,-74.00618,803594.34,8776
+793,Metropolitan Checks Cashing,1264 Amsterdam Ave # 2,New York,40.811055,-73.958453,417533.46,4173
+794,G & R Check Cashing Corp,124 W 42nd St,New York,40.758052,-73.981746,425688.03,5275
+795,Argo Check Cashing Corp,124 W 18th St # 1,New York,40.740147,-73.996162,278183.14,3444
+796,Lazer Check Cashing,122 9th Ave,New York,40.743209,-74.003655,502390.24,7101
+797,Money Centers Check Cashing,115 W 23rd St,New York,40.743386,-73.9932,810919.66,4141
+798,Money Centers,115 Essex St # 1,New York,40.719528,-73.988052,965408.08,4394
+799,Quick Cash Of Dyckman,113 Dyckman St,New York,40.862083,-73.925,854579.86,4186
+800,Church Street Check Cashing,112 Duane St # B,New York,40.715669,-74.006476,584639.64,3181
+801,Pay-O-Matic,111 2nd Ave,New York,40.727731,-73.988355,514684.37,8444
+802,David's Check Cashing Inc,110 W 116th St # 1,New York,40.802104,-73.950631,652247.32,1440
+803,Cash Zone Check Cashing,11 W 46th St,New York,40.756551,-73.979711,4811.92,1438
+804,G & R Check Cashing Corp,11 W 46th St,New York,40.756551,-73.979711,352813.98,9155
+805,Fast Cash Enterprise,107 Malcolm X Blvd,New York,40.801592,-73.950151,202596.08,660
+806,Check Cashing By Egi,106 Greenwich St,New York,40.708544,-74.013651,168238.54,7641
+807,Uneeda Check Cashing,1045 Lexington Ave,New York,40.772013,-73.960792,345459.03,326
+808,Cash Zone,104 W 43rd St,New York,40.75551,-73.984237,331565.87,2402
+809,Cash Edge Inc,104 5th Ave,New York,40.737243,-73.992764,20054.18,2930
+810,PLS Check Cashers,102 Dyckman St,New York,40.861696,-73.924887,997997.72,1214
+811,Into Tech,101 Avenue Of The America,New York,40.723399,-74.004955,481679.05,286
+812,Seligman Cash Management Fun,100 Park Ave # 7,New York,40.751293,-73.978887,224282.46,4576
+813,Broadway Check Cashing Svc,1 Lincoln Plz # 19u,New York,40.771581,-73.98148,932615.8,906
+814,B R G Check Cashing,,New York,40.786449,-73.968533,329734.32,2003
+815,CFSC,,New York,40.751729,-73.984531,649.62,2743
+816,Park Check Cashing,,New York,40.796696,-73.97254,11995.85,9083
+817,Corporate Cash LLC,100 Saint Marys Ave,Staten Island,40.614563,-74.070724,597364.62,795
+818,CFSC,106 Broad St,Staten Island,40.624784,-74.078713,117760.01,5395
+819,Dr Fanny Casher,11 Ralph Pl,Staten Island,40.605469,-74.091682,834907.11,9102
+820,Bay Street Check Cashing Cor,1169 Bay St,Staten Island,40.614792,-74.066299,231481.34,9537
+821,Roberts Cash Flow Business,158 Alaska St,Staten Island,40.635212,-74.120697,585340.56,4010
+822,1 Stop Check Cashing Corp,160 Broad St,Staten Island,40.624126,-74.080086,412231.68,2885
+823,Si Payment Ctr Check Cashing,1625 Forest Ave,Staten Island,40.625225,-74.142288,252268.52,9739
+824,Richmond Ave Check Cashing,1652 Richmond Ave,Staten Island,40.607832,-74.16254,730241.86,9665
+825,PLS Check Cashers,169 Port Richmond Ave,Staten Island,40.636973,-74.134045,471820.88,4030
+826,Twenty Four Hour Money Mart,1696 Richmond Rd,Staten Island,40.588735,-74.102021,276406.75,5013
+827,Check Cashing Place,1730 Richmond Ave,Staten Island,40.606319,-74.162697,294897.73,5096
+828,Ara Cash For Gold,1919 Hylan Blvd,Staten Island,40.583019,-74.097046,922328.11,3644
+829,Hylan Check Cashing Svc Inc,1919 Hylan Blvd # 4,Staten Island,40.583019,-74.097046,125032.17,4047
+830,PLS Check Cashers,202 Bay St,Staten Island,40.637085,-74.076904,302650.83,7613
+831,Fortune Check Cashing,2162 Forest Ave,Staten Island,40.626457,-74.161804,511264.4,4206
+832,Fortune Check Cashing,2162 Forest Ave,Staten Island,40.626457,-74.161804,191764.64,4420
+833,PLS Check Cashers,2234 Forest Ave,Staten Island,40.626767,-74.163411,232445.36,1767
+834,Cash On The Spot Inc,2381 Hylan Blvd,Staten Island,40.573128,-74.107582,582256.11,8310
+835,Cash On The Spot Inc,2381 Hylan Blvd,Staten Island,40.573128,-74.107582,702817.58,8923
+836,Pay-O-Matic,2510 Hylan Blvd,Staten Island,40.570151,-74.109922,144828.18,7466
+837,Page Avenue Check Cashing Sv,27 Page Ave,Staten Island,40.523908,-74.234721,205532.09,845
+838,Merchant Advance Express Inc,274 Colony Ave,Staten Island,40.572237,-74.092402,302297.11,8907
+839,Greenridge Check Cashing Inc,3285 Richmond Ave # E,Staten Island,40.559001,-74.169384,443866.68,1704
+840,New Brighton Cash & Carry,392 Jersey St,Staten Island,40.638798,-74.087556,446383.71,2548
+841,Brighton Check Cashing,427 Jersey St,Staten Island,40.638039,-74.087189,486355.28,6896
+842,PLS Check Cashers,51d Richmond Hill Rd,Staten Island,40.588245,-74.165749,804338.53,910
+843,Powerhouse Payment Svc,541 Port Richmond Ave,Staten Island,40.629528,-74.140312,186390.73,8991
+844,Crazy Cash,5832 Amboy Rd,Staten Island,40.527471,-74.216286,832813.43,8085
+845,Richmond Hill Check Cashing,6 Furness Pl,Staten Island,40.584644,-74.151413,36502.46,9041
+846,Cash For Gold,710 Castleton Ave,Staten Island,40.634662,-74.106359,321801.78,6064
+847,PLS Check Cashers,770 Port Richmond Ave,Staten Island,40.6255,-74.144348,714152.78,7887
+848,One Stop Check Cashing,878 Manor Rd,Staten Island,40.605451,-74.120927,816958.23,1806
+849,Fast Cash Inc,91 Guyon Ave,Staten Island,40.565002,-74.127655,406253.53,5927
+850,PLS Check Cashers,954 Jewett Ave,Staten Island,40.613032,-74.131034,520282.55,2625
+851,Page Ave Check Cashing,960 Bloomingdale Rd,Staten Island,40.549423,-74.221321,251281.07,9869
+852,Fast Cash,86 W Broadway # 1,New York,40.714968,-74.009721,502876.04,145
+853,Cash Zone,639 Broadway,New York,40.726475,-73.99592,224581.17,7760
+854,Money Gram Intl,521 W 181st St,New York,40.848686,-73.932105,215954.62,5903
+855,NYC Check Express,38 E 23rd St,New York,40.740381,-73.987479,494044.99,2320
+856,PLS Check Cashers,2040 Amsterdam Ave # 1,New York,40.835642,-73.940394,439860.36,6601
+857,Cash Zone,140 W 55th St # 1,New York,40.763529,-73.979935,415876.52,5177
