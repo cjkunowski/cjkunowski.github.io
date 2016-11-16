@@ -1,8 +1,5 @@
-
-
-
-
 #mapid { width: 600px; height: 600px; }
+
 
 .legend {
 	line-height: 18px;
@@ -24,6 +21,8 @@
 .circle {
 	background-color: #909090;
 }
+
+
 
 
 
