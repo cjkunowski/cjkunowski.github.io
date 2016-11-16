@@ -94,6 +94,39 @@ var checkCashingLayer = omnivore.csv('CheckCashing.csv', null, checkCashingCusto
 
 
 
+var legend = L.control({position: 'bottomright'});
+
+legend.onAdd = function (map) {
+
+	var div = L.DomUtil.create('div', 'legend'),
+
+amounts = [0, 10000, 50000, 100000, 250000, 500000],
+        customers = [0, 1000, 3000, 5000, 7000, 9000];
+
+div.innerHTML += '<p><strong>Amounts</strong></p>';
+
+for (var i = 0; i < amounts.length; i++) {
+            div.innerHTML +=
+                '<i style="background:' + fillColor(amounts[i] + 1) + '"></i> ' +
+                amounts[i] + (amounts[i + 1] ? '&ndash;' + amounts[i + 1] + '<br />' : '+<br />');
+        }
+
+div.innerHTML += '<p><strong>Customers</strong></p>';
+
+        for (var i = 0; i < customers.length; i++) {
+            var borderRadius = radius(customers[i] + 1);
+            var widthHeight = borderRadius * 2;
+            div.innerHTML +=
+                '<i class="circle" style="width:' + widthHeight + 'px; height:' + widthHeight + 'px; -webkit-border-radius:' + borderRadius + 'px; -moz-border-radius:' + borderRadius + 'px; border-radius:' + borderRadius + 'px;"></i> ' +
+                customers[i] + (customers[i + 1] ? '&ndash;' + customers[i + 1] + '<br />' : '+<br />');
+        }
+
+            return div;
+};
+
+legend.addTo(map);
+
+
 
 
 
