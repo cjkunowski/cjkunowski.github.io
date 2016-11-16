@@ -92,8 +92,6 @@ var checkCashingCustomStuff = L.geoJson(null, {
 
 var checkCashingLayer = omnivore.csv('CheckCashing.csv', null, checkCashingCustomStuff).addTo(map);
 
-
-
 var legend = L.control({position: 'bottomright'});
 
 legend.onAdd = function (map) {
@@ -125,54 +123,6 @@ div.innerHTML += '<p><strong>Customers</strong></p>';
 };
 
 legend.addTo(map);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
 
 
 
