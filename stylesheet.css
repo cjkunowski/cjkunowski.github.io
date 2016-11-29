@@ -1,0 +1,47 @@
+ <link type="text/css" rel="stylesheet" href="libraries/leaflet-0.7.3/leaflet.css"/>
+
+<link type="text/css" rel="stylesheet" href="css/stylesheet.css"/>
+
+body {
+    padding: 0;
+    margin: 0;
+}
+html, body, #map {
+    height: 100%;
+}
+
+#map {
+    width: 65%;
+    display: inline-block;
+}
+
+#list {
+    width: 32%;
+    height: 100%;
+    float: right;
+    margin: 20px 0px 0px 20px;
+    overflow: auto;
+    display: inline-block;
+}
+
+.legend {
+	line-height: 18px;
+    padding: 6px 8px;
+    background: white;
+    background: rgba(255,255,255,0.8);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+}
+
+
+.legend i {
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.7;
+}
+
+.circle {
+	background-color: #909090;
+}
