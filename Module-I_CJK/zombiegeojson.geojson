@@ -1,0 +1,156 @@
+var geojsonFeature = {
+    "type": "FeatureCollection",
+    "features": [
+        {"type": "Feature",
+            "properties": {
+                "Myname": "G.Rider",
+		"FavFood": "Fresh Souls",
+		"FavSong":"Free Bird",
+		"FavMovie":"The Jerk",
+		"FavHobby":"Poppin-Wheelies!"},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.996590, 40.719191]}
+                },
+
+	{"type": "Feature",
+            "properties": {
+                "Myname": "Bubbles",
+		"FavFood": "Ribs!",
+		"FavSong":"Welcome To The Jungle",
+		"FavMovie":"The Princess Bride",
+		"FavHobby":"Human Hunting"},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.996990, 40.719891]}
+                },
+
+                {"type": "Feature",
+            "properties": {
+                "Myname": "Rob Zombie",
+        "FavFood": "Brains!",
+        "FavSong":"Dragula",
+        "FavMovie":"Dead Man Walking",
+        "FavHobby":"Dissection"},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.9738, 40.7624]}
+                },
+
+                {"type": "Feature",
+            "properties": {
+                "Myname": "Zombie-Franck",
+        "FavFood": "Oysters!",
+        "FavSong":"Raw Paper",
+        "FavMovie":"Gone With the Wind",
+        "FavHobby":"Stitchin"},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.87705, 40.71318]}
+                },
+
+                {"type": "Feature",
+            "properties": {
+                "Myname": "Boris Skolovich",
+        "FavFood": "End Trails a la Mode!",
+        "FavSong":"Rabid (Over You)",
+        "FavMovie":"Better Off Dead",
+        "FavHobby":"Skull Smashing"},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.87705, 40.71318]}
+                },
+
+                {"type": "Feature",
+            "properties": {
+                "Myname": "Mary Brainfield",
+        "FavFood": "Limb Jerky!",
+        "FavSong":"Monster Mash",
+        "FavMovie":"Love Actually",
+        "FavHobby":"Javascript"},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.017330, 40.690085]}
+                },
+
+                {"type": "Feature",
+            "properties": {
+                "Myname": "Zombie-Rick",
+        "FavFood": "Boiled Eyes!",
+        "FavSong":"We Found Love",
+        "FavMovie":"Gone With the Wind",
+        "FavHobby":"Running"},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.935940, 40.731205]}
+                },
+
+                {"type": "Feature",
+            "properties": {
+                "Myname": "B. Murray",
+        "FavFood": "Fava Beans!",
+        "FavSong":"Monster Hospital",
+        "FavMovie":"Momento",
+        "FavHobby":"Monopoly"},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.966611, 40.7148771]}
+                },
+
+                  {"type": "Feature",
+            "properties": {
+                "Myname": "Lucielle Ball",
+        "FavFood": "Pinapple, Scotch, Cigarettes!",
+        "FavSong":"This Boots Are Made for Walking",
+        "FavMovie":"Snow White",
+        "FavHobby":"N/A"},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.9825, 40.7683]}
+                },
+
+                  {"type": "Feature",
+            "properties": {
+                "Myname": "E. Hungry",
+        "FavFood": "Stew Rabbit!",
+        "FavSong":"Italian Postcard",
+        "FavMovie":"Chef's Secrete",
+        "FavHobby":"People Watching"},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.966611, 40.7148771]}
+                },
+
+                  {"type": "Feature",
+            "properties": {
+                "Myname": "B. Murray",
+        "FavFood": "Fava Beans!",
+        "FavSong":"Monster Hospital",
+        "FavMovie":"Momento",
+        "FavHobby":"Monopoly"},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.0059410, 40.7127840]}
+                },
+
+                  {"type": "Feature",
+            "properties": {
+                "Myname": "Charles",
+        "FavFood": "Pizza!",
+        "FavSong":"Staying Alive",
+        "FavMovie":"Dawn of the Dead",
+        "FavHobby":"Hunting Humans"},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-0.09, 51.505]}
+
+        },
+    ]
+};
+
+var myPoints = L.geoJson(geojsonFeature, {
+    onEachFeature: featureClick
+}).addTo(map);
+
+L.control.layers(baseMaps, overlayMaps).addTo(map);
+
